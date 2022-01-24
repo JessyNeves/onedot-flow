@@ -1,0 +1,28 @@
+{
+    "to_drop": ["ID", "Hp", "FuelTypeText", "InteriorColorText", "Properties", "Seats", "TransmissionTypeText", "Doors", "ConsumptionRatingText", "ConditionTypeText", "Co2EmissionText", "Ccm", "ModelTypeText", "TypeName", "ConsumptionTotalText", "value-ConsumptionTotalText", "unit-ConsumptionTotalText"],
+    
+    "to_rename": {
+        "BodyColorText": "color",
+        "BodyTypeText": "carType",
+        "ConditionTypeText": "condition",
+        "DriveTypeText": "drive",
+        "MakeText": "make",
+        "FirstRegYear": "manufacture_year",
+        "FirstRegMonth": "manufacture_month",
+        "TypeNameFull": "model_variant",
+        "ModelText": "model",
+        "City": "city",
+        "Km": "mileage"
+    },
+
+    "to_add": {
+        "mileage_unit": "Km",
+        "type": "car",
+        "price_on_request": "null",
+        "zip": "null",
+        "country": "null",
+        "currency": "null",
+        "fuel_consumption_unit": "null",
+        "condition": "null"
+    }
+}

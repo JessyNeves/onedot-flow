@@ -1,0 +1,1154 @@
+make,model,model_variant,color,carType,city,drive,manufacture_month,manufacture_year,mileage,mileage_unit,type,price_on_request,zip,country,currency,fuel_consumption_unit,condition
+Mercedes,E 320,MERCEDES-BENZ E 320 Elégance 4-Matic,Other,Limousine,Zuzwil,Allrad,1,1999,31900.0,Km,car,"",null,null,null,null,null
+Lamborghini,"",LAMBORGHINI Espada GT 400 Serie 3,Other,Coupé,Zuzwil,Hinterradantrieb,4,1973,48000.0,Km,car,"",null,null,null,null,null
+Ferrari,F360,FERRARI F360 Modena Berlinetta,Blue,Coupé,Zuzwil,Hinterradantrieb,2,2004,42600.0,Km,car,"",null,null,null,null,null
+Alfa Romeo,8C,ALFA ROMEO 8C,Silver,Cabriolet,Porrentruy,Hinterradantrieb,4,2011,23900.0,Km,car,"",null,null,null,null,null
+BMW,2002,BMW 2002 Turbo,Silver,Limousine,Zuzwil,Hinterradantrieb,3,1974,97100.0,Km,car,"",null,null,null,null,null
+Datsun,"",DATSUN SPORTS 2000,Silver,Cabriolet,Zuzwil,null,7,1969,23300.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8 4.2 quattro,Silver,Limousine,Zuzwil,Allrad,1,1997,66300.0,Km,car,"",null,null,null,null,null
+Lamborghini,GALLARDO,LAMBORGHINI Gallardo 5.0 V10 Coupé SE,Silver,Coupé,Zuzwil,Allrad,1,2006,20000.0,Km,car,"",null,null,null,null,null
+Mercedes,280,MERCEDES-BENZ 280 3.5 V8 Cabrio,Silver,Cabriolet,Sursee,null,2,1971,500.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 320,MERCEDES-BENZ SL 320,Silver,Cabriolet,Zuzwil,Hinterradantrieb,7,1996,156800.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Silver,SUV / Geländewagen,Zuzwil,Allrad,4,2004,91600.0,Km,car,"",null,null,null,null,null
+BMW,745,BMW 745i,Silver,Limousine,Zuzwil,Hinterradantrieb,12,2004,27600.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera 2 RS,Silver,Coupé,Zuzwil,Hinterradantrieb,1,1992,123000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera 4 Cabrio TECHART,Blue,Cabriolet,Zuzwil,Allrad,5,1999,80400.0,Km,car,"",null,null,null,null,null
+Mercedes,E 55 AMG,MERCEDES-BENZ E 55 AMG Avantgarde,Silver,Limousine,Zuzwil,Hinterradantrieb,11,2002,53800.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Silver,Kombi,Zuzwil,Allrad,12,2002,47400.0,Km,car,"",null,null,null,null,null
+Lamborghini,DIABLO,LAMBORGHINI Diablo 5.7 VT,Silver,Coupé,Zuzwil,Allrad,8,1993,14990.0,Km,car,"",null,null,null,null,null
+Mercedes,"",MERCEDES-BENZ 300SL Roadster,Silver,Cabriolet,Sursee,null,3,1960,1000.0,Km,car,"",null,null,null,null,null
+Alfa Romeo,8C,ALFA ROMEO 8C Coupé,Silver,Coupé,Zuzwil,Hinterradantrieb,3,2008,37000.0,Km,car,"",null,null,null,null,null
+Mercedes,ML 400,MERCEDES-BENZ ML 400 CDI,Silver,SUV / Geländewagen,Zuzwil,Allrad,11,2002,87800.0,Km,car,"",null,null,null,null,null
+VW,GOLF,VW Golf 2.0 TFSI GTI,Silver,Limousine,Zuzwil,Vorderradantrieb,2,2007,87000.0,Km,car,"",null,null,null,null,null
+VW,JETTA,VW Jetta 2.0 TDI Comfort,Silver,Limousine,Zuzwil,Vorderradantrieb,3,2009,33500.0,Km,car,"",null,null,null,null,null
+Mercedes,190,MERCEDES-BENZ 190 E 2.5-16 ABS,Silver,Limousine,Zuzwil,Hinterradantrieb,1,1989,198000.0,Km,car,"",null,null,null,null,null
+Wiesmann,COUPE,WIESMANN GT MF5,Silver,Coupé,Zuzwil,Hinterradantrieb,7,2008,34600.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo Cabrio,Blue,Cabriolet,Zuzwil,Allrad,12,2009,52000.0,Km,car,"",null,null,null,null,null
+BMW,Z4,BMW Z4 M Coupé,Silver,Coupé,Zuzwil,Hinterradantrieb,8,2011,10900.0,Km,car,"",null,null,null,null,null
+Renault,Alpine A110,RENAULT Alpine A110 1300S,Silver,Coupé,Zuzwil,Hinterradantrieb,9,1969,9999.0,Km,car,"",null,null,null,null,null
+Maserati,COUPÉ GT,MASERATI Coupé GT,Silver,Coupé,Zuzwil,Hinterradantrieb,6,2002,62300.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT ALPINE 1600 VF,Silver,Coupé,Zuzwil,Hinterradantrieb,8,1976,42940.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8 4.2 quattro,Silver,Limousine,Zuzwil,Allrad,8,2002,35100.0,Km,car,"",null,null,null,null,null
+Chevrolet,CORVETTE,CHEVROLET Corvette Z06,Silver,Coupé,Zuzwil,Hinterradantrieb,3,2010,24000.0,Km,car,"",null,null,null,null,null
+Toyota,COROLLA,TOYOTA Corolla 1600 GTi TC16,Silver,Coupé,Zuzwil,Hinterradantrieb,12,1986,101400.0,Km,car,"",null,null,null,null,null
+Mercedes,CLK 55 AMG,MERCEDES-BENZ CLK 55 AMG Avantgarde,Silver,Coupé,Zuzwil,Hinterradantrieb,6,2000,79500.0,Km,car,"",null,null,null,null,null
+Audi,S7,AUDI S7 Sportback 4.0 TFSI V8 quattro,Silver,Limousine,Zuzwil,Allrad,3,2014,3600.0,Km,car,"",null,null,null,null,null
+Bentley,ARNAGE,BENTLEY Arnage T,Silver,Limousine,Basel,Hinterradantrieb,3,2006,15600.0,Km,car,"",null,null,null,null,null
+Audi,RS4,AUDI RS4 4.2 V8 quattro,Blue,Limousine,Zuzwil,Allrad,5,2006,108200.0,Km,car,"",null,null,null,null,null
+Mercedes,E 55 AMG,MERCEDES-BENZ E 55 AMG Avantgarde,Silver,Limousine,Zuzwil,Hinterradantrieb,10,2002,52400.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Silver,Coupé,Zuzwil,Allrad,5,2001,60800.0,Km,car,"",null,null,null,null,null
+BMW,645,BMW 645i,Silver,Coupé,Zuzwil,Hinterradantrieb,1,2004,79100.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GT3,Silver,Coupé,Zuzwil,Hinterradantrieb,1,2000,77000.0,Km,car,"",null,null,null,null,null
+Mercedes,E 420,MERCEDES-BENZ E 420 Avantgarde,Silver,Limousine,Zuzwil,Hinterradantrieb,11,1996,87800.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera 4 S,Silver,Coupé,Zuzwil,Allrad,3,2002,68100.0,Km,car,"",null,null,null,null,null
+Aston Martin,DB9,ASTON MARTIN DB9 Volante,Silver,Cabriolet,Zuzwil,Hinterradantrieb,5,2013,17000.0,Km,car,"",null,null,null,null,null
+Triumph,Dolomite,TRIUMPH Dolomite Sprint,Silver,Limousine,Zuzwil,Hinterradantrieb,7,1977,12800.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Silver,Cabriolet,Zuzwil,Hinterradantrieb,6,1996,74400.0,Km,car,"",null,null,null,null,null
+BMW,M6,BMW M6,Silver,Cabriolet,Zuzwil,Hinterradantrieb,2,2007,32000.0,Km,car,"",null,null,null,null,null
+Audi,RS4,AUDI RS4 Avant quattro,Blue,Kombi,Zuzwil,Allrad,7,2001,57500.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GT2,Silver,Coupé,Zuzwil,Hinterradantrieb,11,2001,49900.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT Alpine A310 V6,Silver,Coupé,Zuzwil,Hinterradantrieb,3,1983,69000.0,Km,car,"",null,null,null,null,null
+Toyota,CELICA,TOYOTA CELICA 1600 GT DOHC,Silver,Coupé,Zuzwil,Hinterradantrieb,10,1981,79300.0,Km,car,"",null,null,null,null,null
+VW,PHAETON,VW Phaeton 6.0 W12 4Motion,Silver,Limousine,Zuzwil,Allrad,11,2002,31300.0,Km,car,"",null,null,null,null,null
+Ferrari,F430,FERRARI F430 Scuderia,Silver,Coupé,Zuzwil,Hinterradantrieb,3,2008,19999.0,Km,car,"",null,null,null,null,null
+Mercedes,190,MERCEDES-BENZ 190 E 2.5-16 ABS,Silver,Limousine,Zuzwil,Hinterradantrieb,4,1992,152000.0,Km,car,"",null,null,null,null,null
+BMW,750,BMW 750i,Silver,Limousine,Zuzwil,Hinterradantrieb,3,1997,69600.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera S,Silver,Coupé,Zuzwil,Hinterradantrieb,8,2005,39400.0,Km,car,"",null,null,null,null,null
+Ferrari,MONDIAL,FERRARI Mondial 3.4 T,Silver,Coupé,Zuzwil,Hinterradantrieb,5,1992,16500.0,Km,car,"",null,null,null,null,null
+BMW,X5,BMW X5 4.4i,Silver,SUV / Geländewagen,Zuzwil,Allrad,3,2002,60100.0,Km,car,"",null,null,null,null,null
+Ferrari,F12,FERRARI F12 Berlinetta,Blue,Coupé,Zuzwil,Hinterradantrieb,1,2013,12000.0,Km,car,"",null,null,null,null,null
+Ford,ESCORT,FORD ESCORT RS 2000,Silver,Coupé,Zuzwil,Hinterradantrieb,3,1978,96600.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 320,MERCEDES-BENZ SL 320,Silver,Cabriolet,Zuzwil,Hinterradantrieb,8,1999,83600.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera 4S,Silver,Coupé,Zuzwil,Allrad,2,2006,101200.0,Km,car,"",null,null,null,null,null
+Toyota,LAND CRUISER,TOYOTA LAND CRUISER FJ 40,Silver,SUV / Geländewagen,Zuzwil,Allrad,2,1982,5000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Silver,Cabriolet,Zuzwil,Hinterradantrieb,10,1996,27600.0,Km,car,"",null,null,null,null,null
+Renault,Alpine A110,RENAULT Alpine A110 1600S,Silver,Coupé,Zuzwil,Hinterradantrieb,3,1970,57700.0,Km,car,"",null,null,null,null,null
+Datsun,280,DATSUN 280 ZX,Silver,Coupé,Zuzwil,Hinterradantrieb,3,1981,50300.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GT2,Silver,Coupé,Zuzwil,Hinterradantrieb,9,2001,53400.0,Km,car,"",null,null,null,null,null
+Lamborghini,MURCIÉLAGO,LAMBORGHINI Murciélago 6.2 Coupé,Silver,Coupé,Porrentruy,Allrad,2,2003,9000.0,Km,car,"",null,null,null,null,null
+Mercedes,ML 350,MERCEDES-BENZ ML 350 Inspiration,Silver,SUV / Geländewagen,Zuzwil,Allrad,10,2003,126300.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8 4.2 quattro,Blue,Limousine,Zuzwil,Allrad,11,2003,26300.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Silver,Coupé,Zuzwil,Allrad,3,2003,94500.0,Km,car,"",null,null,null,null,null
+BMW,M3,BMW M3 CSL,Silver,Coupé,Zuzwil,Hinterradantrieb,11,2003,35000.0,Km,car,"",null,null,null,null,null
+Mitsubishi,LANCER,MITSUBISHI LANCER EVO V,Silver,Limousine,Zuzwil,Allrad,1,1999,120800.0,Km,car,"",null,null,null,null,null
+Mercedes,"",MERCEDES-BENZ 6.7 BRABUS,Silver,Coupé,Zuzwil,Hinterradantrieb,2,2000,75300.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera 4,Silver,Coupé,Zuzwil,Allrad,11,2000,38200.0,Km,car,"",null,null,null,null,null
+Audi,TT,AUDI TT Roadster 1.8 T,Silver,Cabriolet,Zuzwil,Vorderradantrieb,3,2005,49900.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8 4.2 quattro,Silver,Limousine,Zuzwil,Allrad,10,1999,101800.0,Km,car,"",null,null,null,null,null
+Renault,Alpine A110,RENAULT Alpine A110 1300,Silver,Coupé,Zuzwil,null,0,1973,75700.0,Km,car,"",null,null,null,null,null
+Maserati,QUATTROPORTE,MASERATI Quattroporte 4.2,Silver,Limousine,Zuzwil,Hinterradantrieb,10,2005,33500.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Silver,Cabriolet,Zuzwil,Hinterradantrieb,1,1995,96600.0,Km,car,"",null,null,null,null,null
+Bentley,ARNAGE,BENTLEY Arnage Red Label,Blue,Limousine,Zuzwil,Hinterradantrieb,5,2000,19300.0,Km,car,"",null,null,null,null,null
+Bentley,CONTINENTAL,BENTLEY Continental GT Speed 6.0,Silver,Coupé,St. Gallen,Allrad,9,2015,5000.0,Km,car,"",null,null,null,null,null
+Jaguar,"",JAGUAR D-Type XKD525,Purple,Coupé,Zuzwil,Hinterradantrieb,7,1956,5300.0,Km,car,"",null,null,null,null,null
+Chevrolet,CORVETTE,CHEVROLET CORVETTE C2,Purple,Coupé,Zuzwil,Hinterradantrieb,6,1967,21300.0,Km,car,"",null,null,null,null,null
+Renault,R5,RENAULT R5 1400 Alpine Turbo,Purple,Kleinwagen,Zuzwil,Vorderradantrieb,3,1982,77900.0,Km,car,"",null,null,null,null,null
+Mercedes,E 50 AMG,MERCEDES-BENZ E 50 AMG Avantgarde,Purple,Limousine,Zuzwil,Hinterradantrieb,3,1997,67400.0,Km,car,"",null,null,null,null,null
+Lamborghini,DIABLO,LAMBORGHINI Diablo 5.7 SV,Purple,Coupé,Porrentruy,Hinterradantrieb,1,1999,44500.0,Km,car,"",null,null,null,null,null
+Mercedes,S 500,MERCEDES-BENZ S 500,Purple,Limousine,Zuzwil,Hinterradantrieb,10,1999,32000.0,Km,car,"",null,null,null,null,null
+Maserati,COUPÉ GT,MASERATI Coupé GT,White,Coupé,Zuzwil,Hinterradantrieb,7,2002,95300.0,Km,car,"",null,null,null,null,null
+Aston Martin,V8 Vantage,ASTON MARTIN V8 Vantage 4.7,White,Cabriolet,Zuzwil,Hinterradantrieb,7,2010,9000.0,Km,car,"",null,null,null,null,null
+Mercedes,ML 400,MERCEDES-BENZ ML 400 CDI,White,SUV / Geländewagen,Zuzwil,Allrad,2,2002,148300.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 4.0 TFSI V8 qu,Blue,Kombi,Zuzwil,Allrad,4,2014,100.0,Km,car,"",null,null,null,null,null
+Triumph,Dolomite,TRIUMPH Dolomite Sprint,White,Limousine,Zuzwil,Hinterradantrieb,6,1977,10800.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne S,White,SUV / Geländewagen,Zuzwil,Allrad,3,2003,115000.0,Km,car,"",null,null,null,null,null
+Maserati,SPYDER GT,MASERATI Spyder GT,White,Cabriolet,Zuzwil,Hinterradantrieb,5,2003,78300.0,Km,car,"",null,null,null,null,null
+Audi,A4,AUDI A4 3.0 V6,White,Limousine,Zuzwil,Vorderradantrieb,2,2004,95300.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8 4.2 quattro,White,Limousine,Zuzwil,Allrad,9,2003,101300.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT ALPINE A310 2700 VA,White,Coupé,Zuzwil,Hinterradantrieb,11,1979,11200.0,Km,car,"",null,null,null,null,null
+Ferrari,575M,FERRARI 575M,White,Coupé,Zuzwil,Hinterradantrieb,5,2007,26000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,White,Cabriolet,Zuzwil,Hinterradantrieb,1,2003,43000.0,Km,car,"",null,null,null,null,null
+Mercedes,CLK 55 AMG,MERCEDES-BENZ CLK 55 AMG Avantgarde,White,Coupé,Zuzwil,Hinterradantrieb,11,2001,47500.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,White,SUV / Geländewagen,Zuzwil,Allrad,1,2007,10.0,Km,car,"",null,null,null,null,null
+Maserati,COUPÉ GT,MASERATI Coupé GT,Blue,Coupé,Zuzwil,Hinterradantrieb,8,2003,61400.0,Km,car,"",null,null,null,null,null
+BMW,330,BMW 330i,White,Limousine,Zuzwil,Hinterradantrieb,9,2000,49700.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 600,MERCEDES-BENZ CL 600,White,Coupé,Zuzwil,Hinterradantrieb,11,2000,94000.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8 4.2 quattro,White,Limousine,Zuzwil,Allrad,3,1997,94700.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo S Cabrio,White,Cabriolet,Zuzwil,Allrad,7,2011,14000.0,Km,car,"",null,null,null,null,null
+McLaren,12C,McLAREN MP4-12C Coupé 3.8 V8,White,Coupé,Zuzwil,Hinterradantrieb,3,2012,23000.0,Km,car,"",null,null,null,null,null
+Ferrari,458,FERRARI 458 Spider Italia 4.5 V8,White,Cabriolet,Zuzwil,Hinterradantrieb,1,2012,11700.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,White,Kombi,Zuzwil,Allrad,7,2008,120000.0,Km,car,"",null,null,null,null,null
+Ferrari,599,FERRARI 599 GTB,White,Coupé,Zuzwil,Hinterradantrieb,4,2007,22000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 63 AMG,MERCEDES-BENZ S 63 AMG L,White,Limousine,Zuzwil,Hinterradantrieb,4,2008,46000.0,Km,car,"",null,null,null,null,null
+Chevrolet,CORVETTE,CHEVROLET CORVETTE C1,White,Cabriolet,Zuzwil,Hinterradantrieb,1,1961,67000.0,Km,car,"",null,null,null,null,null
+Ruf,"",RUF RT 12,Other,Coupé,Zuzwil,null,6,2007,36000.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Blue,Kombi,Zuzwil,Allrad,10,2002,81000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 500,MERCEDES-BENZ S 500 4Matic,White,Limousine,Zuzwil,Allrad,11,2006,62300.0,Km,car,"",null,null,null,null,null
+Bentley,ARNAGE,BENTLEY Arnage Green Label,White,Limousine,Zuzwil,Hinterradantrieb,7,2000,34900.0,Km,car,"",null,null,null,null,null
+BMW,740,BMW 740i,White,Limousine,Zuzwil,Hinterradantrieb,4,1998,85400.0,Km,car,"",null,null,null,null,null
+De Tomaso,PANTERA,DE TOMASO PANTERA,White,Limousine,Zuzwil,Hinterradantrieb,9,1974,68100.0,Km,car,"",null,null,null,null,null
+Jaguar,XJ,JAGUAR XJR 4.0 Supercharged,White,Limousine,Zuzwil,Hinterradantrieb,1,1996,99900.0,Km,car,"",null,null,null,null,null
+Mercedes,ML 500,MERCEDES-BENZ ML 500 4Matic,White,SUV / Geländewagen,Zuzwil,Allrad,12,2005,37500.0,Km,car,"",null,null,null,null,null
+Other,"",DeLorean De Lorean DMC-12,White,Coupé,Zuzwil,Hinterradantrieb,4,1981,15000.0,Km,car,"",null,null,null,null,null
+Porsche,PANAMERA,PORSCHE Panamera Turbo 4.8,White,Limousine,Zuzwil,Allrad,9,2009,30300.0,Km,car,"",null,null,null,null,null
+Autobianchi,A112,AUTOBIANCHI A112 Abarth Serie II,White,Kleinwagen,Zuzwil,Vorderradantrieb,6,1974,9999.0,Km,car,"",null,null,null,null,null
+Alfa Romeo,SPIDER,ALFA ROMEO SPIDER 1300 Junior,White,Cabriolet,Zuzwil,Hinterradantrieb,3,1970,106000.0,Km,car,"",null,null,null,null,null
+VW,PHAETON,VW Phaeton 6.0 W12 4Motion,Blue,Limousine,Zuzwil,Allrad,1,2003,37800.0,Km,car,"",null,null,null,null,null
+Chevrolet,Silverado,CHEVROLET Silverado 2500HD 6.6l V8,White,Pick-up,Zuzwil,Hinterradantrieb,2,2007,34500.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 600,MERCEDES-BENZ CL 600,White,Coupé,Zuzwil,Hinterradantrieb,1,2001,73400.0,Km,car,"",null,null,null,null,null
+Bentley,ARNAGE,BENTLEY ARNAGE Red Label,White,Limousine,Zuzwil,Hinterradantrieb,10,2000,85700.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 600,MERCEDES-BENZ CL 600,White,Coupé,Zuzwil,Hinterradantrieb,9,2003,12200.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT Alpine V6 Turbo,White,Coupé,Zuzwil,Hinterradantrieb,4,1988,98600.0,Km,car,"",null,null,null,null,null
+Mercedes,CLS 500,MERCEDES-BENZ CLS 500,White,Kombi,Zuzwil,Hinterradantrieb,5,2013,10400.0,Km,car,"",null,null,null,null,null
+Mercedes,CLS 63 AMG,MERCEDES-BENZ CLS 63 AMG,White,Limousine,Zuzwil,Hinterradantrieb,9,2007,15800.0,Km,car,"",null,null,null,null,null
+Hummer,H3,HUMMER H3 3.7 Adventure,White,SUV / Geländewagen,Zuzwil,Allrad,11,2008,150.0,Km,car,"",null,null,null,null,null
+Rolls-Royce,PHANTOM,ROLLS-ROYCE Phantom 6.7 V12,White,Limousine,Zuzwil,Hinterradantrieb,11,2004,54000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,White,Coupé,Zuzwil,Allrad,2,2008,73500.0,Km,car,"",null,null,null,null,null
+Ford,EXPLORER,FORD (USA) Explorer 4.0 Ltd. Edition,Blue,SUV / Geländewagen,Zuzwil,Allrad,9,1999,50100.0,Km,car,"",null,null,null,null,null
+Renault,Alpine A110,RENAULT Alpine A110 1300 VC Gordini,White,Coupé,Zuzwil,Hinterradantrieb,3,1971,31800.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,White,Coupé,Zuzwil,Allrad,10,2001,30100.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,White,Kombi,Zuzwil,Allrad,1,2010,15000.0,Km,car,"",null,null,null,null,null
+Bentley,CONTINENTAL,BENTLEY Continental GT 6.0,White,Coupé,Zuzwil,Allrad,7,2004,79700.0,Km,car,"",null,null,null,null,null
+Ferrari,575M,FERRARI 575M,White,Coupé,Zuzwil,Hinterradantrieb,4,2003,39000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,White,Cabriolet,Zuzwil,Hinterradantrieb,1,1991,197800.0,Km,car,"",null,null,null,null,null
+Mazda,MX-5,MAZDA MX-5 1.8i 16V Confort,White,Cabriolet,Zuzwil,Hinterradantrieb,3,2007,6900.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,White,Kombi,Zuzwil,Allrad,1,2009,31500.0,Km,car,"",null,null,null,null,null
+Peugeot,205,PEUGEOT 205 Turbo 16V,White,Coupé,Zuzwil,Allrad,11,1984,58950.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8 4.2 quattro,White,Limousine,Zuzwil,Allrad,3,1996,143700.0,Km,car,"",null,null,null,null,null
+Mercedes,500,MERCEDES-BENZ 500 SE,Blue,Limousine,Zuzwil,Hinterradantrieb,8,1991,91600.0,Km,car,"",null,null,null,null,null
+BMW,320,BMW 320d xDrive M-Sportpaket,White,Limousine,Zuzwil,Allrad,2,2009,110600.0,Km,car,"",null,null,null,null,null
+BMW,728,BMW 728i,White,Limousine,Zuzwil,Hinterradantrieb,11,1998,34400.0,Km,car,"",null,null,null,null,null
+Jaguar,XJ 220,JAGUAR XJ 220,White,Coupé,Zuzwil,null,5,1996,25000.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne S,White,SUV / Geländewagen,Zuzwil,Allrad,6,2012,1000.0,Km,car,"",null,null,null,null,null
+Rolls-Royce,PHANTOM,ROLLS-ROYCE Phantom 6.7 V12,White,Limousine,Zuzwil,Hinterradantrieb,1,2004,56000.0,Km,car,"",null,null,null,null,null
+Bentley,CONTINENTAL,BENTLEY Continental FlyingSpur6.0,White,Limousine,Zuzwil,Allrad,1,2006,43000.0,Km,car,"",null,null,null,null,null
+Mercedes,CLS 63 AMG,MERCEDES-BENZ CLS 63 AMG,White,Limousine,Zuzwil,Hinterradantrieb,8,2010,37500.0,Km,car,"",null,null,null,null,null
+Renault,ESPACE,RENAULT Espace 2.0 T Privilège,White,Kompaktvan / Minivan,Zuzwil,Vorderradantrieb,3,2004,145000.0,Km,car,"",null,null,null,null,null
+Jaguar,XK,JAGUAR XKR S/C,White,Coupé,Zuzwil,Hinterradantrieb,11,1999,103000.0,Km,car,"",null,null,null,null,null
+Mini,MINI,MINI MINI 1000,White,Limousine,Safenwil,Vorderradantrieb,7,1976,44300.0,Km,car,"",null,null,null,null,null
+Mercedes,ML 500,MERCEDES-BENZ ML 500,Blue,SUV / Geländewagen,Zuzwil,Allrad,1,2002,20800.0,Km,car,"",null,null,null,null,null
+McLaren,12C,McLAREN MP4-12C Cabriolet 3.8 V8,White,Cabriolet,Zuzwil,Hinterradantrieb,3,2013,12000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 320,MERCEDES-BENZ SL 320,White,Cabriolet,Zuzwil,Hinterradantrieb,2,1997,70600.0,Km,car,"",null,null,null,null,null
+AGM,"",AGM WLR,White,Cabriolet,Zuzwil,Hinterradantrieb,1,2004,1.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,White,Cabriolet,Zuzwil,Hinterradantrieb,1,2003,81000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera S Cabrio,White,Cabriolet,Zuzwil,Hinterradantrieb,8,2006,29800.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,White,Cabriolet,Zuzwil,Hinterradantrieb,11,2001,15600.0,Km,car,"",null,null,null,null,null
+Mercedes,S 600,MERCEDES-BENZ S 600,White,Coupé,Zuzwil,Hinterradantrieb,8,1993,26800.0,Km,car,"",null,null,null,null,null
+VW,PHAETON,VW Phaeton 3.0 TDi V6 4M,White,Limousine,Zuzwil,Allrad,6,2005,48300.0,Km,car,"",null,null,null,null,null
+Ferrari,456,FERRARI 456M GT,White,Coupé,Zuzwil,Hinterradantrieb,3,2000,36000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 65 AMG,MERCEDES-BENZ S 65 AMG L,White,Limousine,Zuzwil,Hinterradantrieb,3,2007,102000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Blue,Cabriolet,Zuzwil,Hinterradantrieb,12,2008,41000.0,Km,car,"",null,null,null,null,null
+BMW,M5,BMW M5,White,Limousine,Zuzwil,Hinterradantrieb,10,1998,39700.0,Km,car,"",null,null,null,null,null
+Mercedes,A 150,MERCEDES-BENZ A 150 Classic,White,Limousine,Zuzwil,Vorderradantrieb,10,2005,99000.0,Km,car,"",null,null,null,null,null
+Lamborghini,"",LAMBORGHINI Reventon Coupé,White,Coupé,Porrentruy,Allrad,4,2008,5900.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,White,Kombi,Zuzwil,Allrad,3,2004,55000.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Blue,Kombi,Zuzwil,Allrad,10,2008,79700.0,Km,car,"",null,null,null,null,null
+Mercedes,E 320,MERCEDES-BENZ E 320 Avantgarde,Blue,Kombi,Zuzwil,Hinterradantrieb,5,2001,83000.0,Km,car,"",null,null,null,null,null
+Mercedes,"",MERCEDES-BENZ CLK DTM AMG,Blue,Cabriolet,Zuzwil,Hinterradantrieb,2,2008,32500.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Blue,Coupé,Zuzwil,Allrad,3,2009,33000.0,Km,car,"",null,null,null,null,null
+BMW,X5,BMW X5 4.6is,Other,SUV / Geländewagen,Zuzwil,Allrad,11,2002,26500.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Blue,Cabriolet,Zuzwil,Hinterradantrieb,4,2004,14500.0,Km,car,"",null,null,null,null,null
+Bentley,BROOKLANDS,BENTLEY Brooklands,Blue,Limousine,Zuzwil,Hinterradantrieb,3,1995,39100.0,Km,car,"",null,null,null,null,null
+Mercedes,C 320,MERCEDES-BENZ C 320 Elégance,Blue,Limousine,Zuzwil,Hinterradantrieb,5,2002,145100.0,Km,car,"",null,null,null,null,null
+Alpina,5 SERIES,BMW-ALPINA 5 SERIES B7 TURBO,Blue,Limousine,Zuzwil,null,5,1986,199300.0,Km,car,"",null,null,null,null,null
+Ferrari,F360,FERRARI F360 Modena Berlinetta,Blue,Coupé,Porrentruy,Hinterradantrieb,11,2003,42500.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Blue,Kombi,Zuzwil,Allrad,7,2008,114200.0,Km,car,"",null,null,null,null,null
+BMW,728,BMW 728i,Blue,Limousine,Zuzwil,Hinterradantrieb,5,1998,26200.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Blue,Kombi,Zuzwil,Allrad,5,2003,64500.0,Km,car,"",null,null,null,null,null
+Mercedes,E 63 AMG,MERCEDES-BENZ E 63 AMG S 4Matic,Blue,Limousine,Zuzwil,Allrad,7,2013,23900.0,Km,car,"",null,null,null,null,null
+Lamborghini,MURCIÉLAGO,LAMBORGHINI Murciélago LP640-4 Cpé,Blue,Coupé,Zuzwil,Allrad,7,2007,38000.0,Km,car,"",null,null,null,null,null
+Porsche,924,PORSCHE 924 Turbo,Other,Coupé,Zuzwil,Hinterradantrieb,3,1980,54000.0,Km,car,"",null,null,null,null,null
+MG,"",MG Roadster,Blue,Coupé,Zuzwil,Hinterradantrieb,1,1957,37000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 55 AMG,MERCEDES-BENZ S 55 AMG,Blue,Limousine,Zuzwil,Hinterradantrieb,2,1999,96500.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Blue,Cabriolet,Zuzwil,Hinterradantrieb,10,2003,49900.0,Km,car,"",null,null,null,null,null
+Mercedes,E 240,MERCEDES-BENZ E 240 Avantgarde,Blue,Limousine,Zuzwil,Hinterradantrieb,3,2003,106000.0,Km,car,"",null,null,null,null,null
+BMW,Z1,BMW Z1,Blue,Cabriolet,Zuzwil,Hinterradantrieb,2,1990,27700.0,Km,car,"",null,null,null,null,null
+Honda,LEGEND,HONDA Legend V6 3.5i,Blue,Limousine,Zuzwil,Vorderradantrieb,3,2001,111500.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Blue,Coupé,Zuzwil,Allrad,3,2002,132600.0,Km,car,"",null,null,null,null,null
+Mercedes,CLS 63 AMG,MERCEDES-BENZ CLS 63 AMG,Blue,Limousine,Zuzwil,Hinterradantrieb,5,2011,31400.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 320,MERCEDES-BENZ SL 320,Blue,Cabriolet,Zuzwil,Hinterradantrieb,4,2000,25100.0,Km,car,"",null,null,null,null,null
+BMW,750,BMW 750i,Blue,Limousine,Zuzwil,Hinterradantrieb,7,1995,119600.0,Km,car,"",null,null,null,null,null
+Audi,Cabriolet,AUDI Cabriolet 2.8 E,Other,Cabriolet,Zuzwil,Vorderradantrieb,7,1996,120200.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Blue,Kombi,Zuzwil,Allrad,10,2008,49800.0,Km,car,"",null,null,null,null,null
+Mercedes,C 230,MERCEDES-BENZ C 230 Elégance,Blue,Limousine,Zuzwil,Hinterradantrieb,2,1997,123400.0,Km,car,"",null,null,null,null,null
+Lamborghini,GALLARDO,LAMBORGHINI Gallardo LP570-4 Coupé SL,Blue,Coupé,Zuzwil,Allrad,3,2011,18000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 65 AMG,MERCEDES-BENZ S 65 AMG L,Blue,Limousine,Zuzwil,Hinterradantrieb,8,2006,68800.0,Km,car,"",null,null,null,null,null
+Renault,Alpine A110,RENAULT Alpine A110 A5 Motor,Blue,Coupé,Zuzwil,Hinterradantrieb,5,1977,39267.0,Km,car,"",null,null,null,null,null
+Mercedes,190,MERCEDES-BENZ 190 E 2.5-16 ABS,Blue,Limousine,Zuzwil,Hinterradantrieb,10,1990,162000.0,Km,car,"",null,null,null,null,null
+BMW,2002,BMW 2002 Turbo,Blue,Limousine,Zuzwil,Hinterradantrieb,1,1974,7990.0,Km,car,"",null,null,null,null,null
+Ford,MUSTANG,FORD (USA) Mustang 5.0 GT Premium 50 Years,Blue,Coupé,Zuzwil,Hinterradantrieb,4,2015,4300.0,Km,car,"",null,null,null,null,null
+Lamborghini,GALLARDO,LAMBORGHINI Gallardo LP550-2 Cpé V.B.,Blue,Coupé,Zuzwil,Hinterradantrieb,9,2009,7300.0,Km,car,"",null,null,null,null,null
+Ferrari,F430,FERRARI F430 Spider,Blue,Cabriolet,Porrentruy,Hinterradantrieb,6,2007,53500.0,Km,car,"",null,null,null,null,null
+Land Rover,RANGE ROVER,LAND ROVER Range Rover 3.6 d HSE,Other,SUV / Geländewagen,Zuzwil,Allrad,2,2007,99900.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 500,MERCEDES-BENZ CL 500,Blue,Coupé,Zuzwil,Hinterradantrieb,12,2001,116100.0,Km,car,"",null,null,null,null,null
+Maserati,QUATTROPORTE,MASERATI Quattroporte 4.7 S,Blue,Limousine,Zuzwil,Hinterradantrieb,2,2009,96000.0,Km,car,"",null,null,null,null,null
+BMW,530,BMW 530d Touring,Blue,Kombi,Zuzwil,Hinterradantrieb,11,2004,108500.0,Km,car,"",null,null,null,null,null
+VW,EOS,VW Eos 2.0 FSI T,Blue,Cabriolet,Zuzwil,Vorderradantrieb,9,2007,27000.0,Km,car,"",null,null,null,null,null
+Audi,A6,AUDI A6 4.2 V8 quattro,Blue,Limousine,Zuzwil,Allrad,3,2004,62000.0,Km,car,"",null,null,null,null,null
+Mercedes,E 55 AMG,MERCEDES-BENZ E 55 AMG Avantgarde,Blue,Limousine,Zuzwil,Hinterradantrieb,2,1998,86900.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera Cabrio,Blue,Cabriolet,Zuzwil,Hinterradantrieb,1,1999,34400.0,Km,car,"",null,null,null,null,null
+BMW,X3,BMW X3 3.0i,Blue,SUV / Geländewagen,Zuzwil,Allrad,10,2004,86200.0,Km,car,"",null,null,null,null,null
+Alpina,6 SERIES,BMW-ALPINA B6 4.4 V8 Cabrio,Blue,Cabriolet,Zuzwil,Hinterradantrieb,4,2007,66800.0,Km,car,"",null,null,null,null,null
+BMW,540,BMW 540i,Blue,Limousine,Zuzwil,Hinterradantrieb,11,1998,78700.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Other,Cabriolet,Zuzwil,Hinterradantrieb,6,2002,16500.0,Km,car,"",null,null,null,null,null
+Porsche,BOXSTER,PORSCHE Boxster S 3.2,Blue,Cabriolet,Zuzwil,Hinterradantrieb,4,2000,43400.0,Km,car,"",null,null,null,null,null
+Ferrari,458,FERRARI 458 Italia 4.5 V8 Speciale,Blue,Coupé,Zuzwil,Hinterradantrieb,1,2015,200.0,Km,car,"",null,null,null,null,null
+Mercedes,E 420,MERCEDES-BENZ E 420 Elégance,Blue,Limousine,Zuzwil,Hinterradantrieb,6,1996,26800.0,Km,car,"",null,null,null,null,null
+Mercedes,ML 63 AMG,MERCEDES-BENZ ML 63 AMG 4Matic,Blue,SUV / Geländewagen,Zuzwil,Allrad,1,2013,25100.0,Km,car,"",null,null,null,null,null
+Mercedes,E 55 AMG,MERCEDES-BENZ E 55 AMG Avantgarde,Blue,Limousine,Zuzwil,Hinterradantrieb,10,1998,35000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 600,MERCEDES-BENZ S 600,Blue,Coupé,Zuzwil,Hinterradantrieb,8,1993,111000.0,Km,car,"",null,null,null,null,null
+Mercedes,SLK 230,MERCEDES-BENZ SLK 230 Kompressor,Blue,Cabriolet,Zuzwil,Hinterradantrieb,7,1998,166550.0,Km,car,"",null,null,null,null,null
+Lotus,ESPRIT,LOTUS Esprit 3.5 V8 SE,Blue,Coupé,Zuzwil,Hinterradantrieb,7,2002,36700.0,Km,car,"",null,null,null,null,null
+Subaru,IMPREZA,SUBARU Impreza 2.5T WRX,Blue,Limousine,Zuzwil,Allrad,4,2006,161500.0,Km,car,"",null,null,null,null,null
+Aston Martin,DB7,ASTON MARTIN DB7,Blue,Coupé,Zuzwil,Hinterradantrieb,4,1998,97200.0,Km,car,"",null,null,null,null,null
+Land Rover,RANGE ROVER,LAND ROVER Range Rover 4.4TD Vogue,Other,SUV / Geländewagen,Zuzwil,Allrad,1,2012,63200.0,Km,car,"",null,null,null,null,null
+Mercedes,S 500,MERCEDES-BENZ S 500,Blue,Limousine,Zuzwil,Hinterradantrieb,6,2006,48000.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT Alpine A310 V6,Blue,Coupé,Zuzwil,Hinterradantrieb,5,1981,68900.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Blue,Kombi,Zuzwil,Allrad,7,2002,47600.0,Km,car,"",null,null,null,null,null
+Maserati,QUATTROPORTE,MASERATI Quattroporte 4.2,Blue,Limousine,Zuzwil,Hinterradantrieb,6,2004,62700.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT ALPINE A310 1600 VG,Blue,Limousine,Zuzwil,Hinterradantrieb,6,1976,59800.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Blue,Kombi,Zuzwil,Allrad,8,2002,39300.0,Km,car,"",null,null,null,null,null
+Ferrari,F360,FERRARI F360 Modena Berlinetta,Blue,Coupé,Zuzwil,Hinterradantrieb,3,2005,8000.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 500,MERCEDES-BENZ CL 500,Blue,Coupé,Zuzwil,Hinterradantrieb,9,2000,75100.0,Km,car,"",null,null,null,null,null
+Ferrari,575M,FERRARI 575M,Blue,Coupé,Zuzwil,Hinterradantrieb,7,2002,51200.0,Km,car,"",null,null,null,null,null
+Volvo,C70,VOLVO C70 T5,Blue,Coupé,Zuzwil,Vorderradantrieb,2,2001,27900.0,Km,car,"",null,null,null,null,null
+Mercedes,C 63 AMG,MERCEDES-BENZ C 63 AMG BLACK SERIES (Coupé),Other,Coupé,Zuzwil,Hinterradantrieb,8,2012,12100.0,Km,car,"",null,null,null,null,null
+Land Rover,RANGE ROVER,LAND ROVER Range Rover 4.6 HSE,Blue,SUV / Geländewagen,Zuzwil,Allrad,5,1998,49700.0,Km,car,"",null,null,null,null,null
+Toyota,CELICA,TOYOTA CELICA 1600 GT,Blue,Coupé,Zuzwil,Hinterradantrieb,8,1971,53100.0,Km,car,"",null,null,null,null,null
+Ferrari,F360,FERRARI F360 Modena Berlinetta,Blue,Coupé,Zuzwil,Hinterradantrieb,8,1999,20700.0,Km,car,"",null,null,null,null,null
+Alpina,7 SERIES,BMW-ALPINA 7 SERIES B7 Turbo Coupé,Blue,Coupé,Zuzwil,null,4,1984,150200.0,Km,car,"",null,null,null,null,null
+Mercedes,SLR,MERCEDES-BENZ SLR McLaren Roadster,Blue,Cabriolet,Zuzwil,Hinterradantrieb,6,2008,2400.0,Km,car,"",null,null,null,null,null
+Porsche,924,PORSCHE 924,Blue,Coupé,Zuzwil,Hinterradantrieb,5,1985,47000.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8  6.0 quattro,Blue,Limousine,Zuzwil,Allrad,7,2004,49000.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Blue,Kombi,Zuzwil,Allrad,7,2008,46000.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT Alpine A310 V6,Blue,Coupé,Zuzwil,Hinterradantrieb,6,1978,77300.0,Km,car,"",null,null,null,null,null
+BMW,M3,BMW M3,Blue,Cabriolet,Zuzwil,Hinterradantrieb,3,2002,142000.0,Km,car,"",null,null,null,null,null
+Alpina,3 SERIES,BMW-ALPINA 3 SERIES B8,Other,Limousine,Zuzwil,Hinterradantrieb,1,1999,146500.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Blue,Cabriolet,Zuzwil,Hinterradantrieb,5,2003,32500.0,Km,car,"",null,null,null,null,null
+Audi,RS4,AUDI RS4 Avant quattro,Blue,Kombi,Zuzwil,Allrad,2,2001,37800.0,Km,car,"",null,null,null,null,null
+Mercedes,CLK 55 AMG,MERCEDES-BENZ CLK 55 AMG Avantgarde,Blue,Coupé,Zuzwil,Hinterradantrieb,6,2002,52500.0,Km,car,"",null,null,null,null,null
+Mercedes,SLK 230,MERCEDES-BENZ SLK 230 Kompressor,Blue,Cabriolet,Zuzwil,Hinterradantrieb,8,2002,30500.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera 4S,Blue,Coupé,Zuzwil,Allrad,3,1996,139900.0,Km,car,"",null,null,null,null,null
+Mitsubishi,LANCER,MITSUBISHI Lancer Evo VII,Other,Limousine,Zuzwil,Allrad,7,2003,35200.0,Km,car,"",null,null,null,null,null
+Mercedes,S 320,MERCEDES-BENZ S 320,Other,Limousine,Zuzwil,Hinterradantrieb,6,2000,14100.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Other,Cabriolet,Zuzwil,Hinterradantrieb,4,2004,23000.0,Km,car,"",null,null,null,null,null
+Mercedes,"",MERCEDES-BENZ 170V B Cabrio 136,Other,Coupé,Zuzwil,Hinterradantrieb,7,1939,1.0,Km,car,"",null,null,null,null,null
+Mercedes,S 500,MERCEDES-BENZ S 500,Other,Limousine,Zuzwil,Hinterradantrieb,11,2005,128000.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Other,Kombi,Zuzwil,Allrad,7,2008,25400.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Other,Cabriolet,Zuzwil,Hinterradantrieb,3,2006,47000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo S Cabrio,Other,Cabriolet,Zuzwil,Allrad,5,2014,450.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 300,MERCEDES-BENZ SL 300,Other,Cabriolet,Zuzwil,Hinterradantrieb,6,1993,63600.0,Km,car,"",null,null,null,null,null
+Mercedes,S 500,MERCEDES-BENZ S 500,Other,Limousine,Zuzwil,Hinterradantrieb,5,2000,99900.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8 4.2 quattro,Other,Limousine,Zuzwil,Allrad,4,2004,60000.0,Km,car,"",null,null,null,null,null
+Fiat,"",FIAT 850 Spider,Other,Coupé,Zuzwil,Hinterradantrieb,8,1970,9999.0,Km,car,"",null,null,null,null,null
+Ferrari,F360,FERRARI F360 Modena Berlinetta,Other,Coupé,Zuzwil,Hinterradantrieb,8,1999,30300.0,Km,car,"",null,null,null,null,null
+Bentley,"",BENTLEY T 2,Other,Limousine,Zuzwil,Hinterradantrieb,2,1979,175100.0,Km,car,"",null,null,null,null,null
+Mercedes,E 55 AMG,MERCEDES-BENZ E 55 AMG Avantgarde,Other,Limousine,Zuzwil,Hinterradantrieb,10,1997,67400.0,Km,car,"",null,null,null,null,null
+BMW,M3,BMW M3,Other,Cabriolet,Zuzwil,Hinterradantrieb,3,2001,46000.0,Km,car,"",null,null,null,null,null
+Audi,A6,AUDI A6 Avant 2.7 T q.Ambiente,Other,Kombi,Zuzwil,Allrad,9,1999,171700.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Other,Kombi,Zuzwil,Allrad,7,2003,27900.0,Km,car,"",null,null,null,null,null
+Ferrari,F430,FERRARI F430,Other,Coupé,Zuzwil,Hinterradantrieb,6,2005,29300.0,Km,car,"",null,null,null,null,null
+Maserati,QUATTROPORTE,MASERATI Quattroporte 4.2 Sport GT,Brown,Limousine,Zuzwil,Hinterradantrieb,4,2008,80000.0,Km,car,"",null,null,null,null,null
+BMW,Z4,BMW Z4 2.5i Roadster,Brown,Cabriolet,Zuzwil,Hinterradantrieb,9,2008,22800.0,Km,car,"",null,null,null,null,null
+BMW,328,BMW 328i,Brown,Limousine,Zuzwil,Hinterradantrieb,4,1998,33700.0,Km,car,"",null,null,null,null,null
+Bentley,CONTINENTAL,BENTLEY Continental FlyingSpur6.0,Yellow,Limousine,Zuzwil,Allrad,3,2006,35000.0,Km,car,"",null,null,null,null,null
+Morgan,4/4,MORGAN 4/4 1.8,Yellow,Cabriolet,Zuzwil,Hinterradantrieb,6,2006,7100.0,Km,car,"",null,null,null,null,null
+Rolls-Royce,CORNICHE,ROLLS-ROYCE CORNICHE Cabrio,Yellow,Cabriolet,Zuzwil,Hinterradantrieb,6,1987,19720.0,Km,car,"",null,null,null,null,null
+Ferrari,F355,FERRARI F355 Berlinetta,Yellow,Coupé,Zuzwil,Hinterradantrieb,3,1998,28100.0,Km,car,"",null,null,null,null,null
+BMW,M5,BMW M5,Yellow,Limousine,Zuzwil,Hinterradantrieb,4,2005,3000.0,Km,car,"",null,null,null,null,null
+Daewoo,TACUMA,DAEWOO Tacuma 2000i CDX,Yellow,Kompaktvan / Minivan,Zuzwil,Vorderradantrieb,10,2003,103000.0,Km,car,"",null,null,null,null,null
+Renault,Alpine A110,RENAULT Alpine A110 1600S Gruppe 5 look,Other,Coupé,Zuzwil,Hinterradantrieb,1,1971,19200.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo S Cabrio PDK,Yellow,Cabriolet,Zuzwil,Allrad,4,2011,28000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Targa,Yellow,Cabriolet,Zuzwil,Hinterradantrieb,11,1971,96000.0,Km,car,"",null,null,null,null,null
+Maserati,3200 GT,MASERATI 3200 GT,Yellow,Coupé,Zuzwil,Hinterradantrieb,3,2000,64600.0,Km,car,"",null,null,null,null,null
+Mercedes,S 400,MERCEDES-BENZ S 400 CDI,Yellow,Limousine,Zuzwil,Hinterradantrieb,4,2001,42000.0,Km,car,"",null,null,null,null,null
+Ferrari,456,FERRARI 456M GT,Yellow,Coupé,Zuzwil,Hinterradantrieb,5,1999,49000.0,Km,car,"",null,null,null,null,null
+Audi,S6,AUDI S6 quattro,Yellow,Limousine,Zuzwil,Allrad,8,2001,103100.0,Km,car,"",null,null,null,null,null
+Mercedes,190,MERCEDES-BENZ 190 E 2.5-16 Evo II ABS,Yellow,Limousine,Zuzwil,Hinterradantrieb,7,1991,89700.0,Km,car,"",null,null,null,null,null
+Mazda,626,MAZDA 626 2.0i-16V HPV,Yellow,Limousine,Zuzwil,Vorderradantrieb,8,2001,158000.0,Km,car,"",null,null,null,null,null
+Toyota,CAMRY,TOYOTA CAMRY 2000 GLi Super Liftback,Yellow,Limousine,Safenwil,Vorderradantrieb,5,1985,58100.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo S,Yellow,SUV / Geländewagen,Zuzwil,Allrad,9,2006,91600.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Other,SUV / Geländewagen,Zuzwil,Allrad,3,2003,121000.0,Km,car,"",null,null,null,null,null
+Chrysler,VIPER,CHRYSLER Viper RT/10,Yellow,Cabriolet,Zuzwil,Hinterradantrieb,10,1993,28600.0,Km,car,"",null,null,null,null,null
+Mercedes,S 320,MERCEDES-BENZ S 320,Yellow,Limousine,Zuzwil,Hinterradantrieb,4,1999,128000.0,Km,car,"",null,null,null,null,null
+Toyota,MR2,TOYOTA MR2 2.0,Yellow,Coupé,Zuzwil,Hinterradantrieb,12,1990,135800.0,Km,car,"",null,null,null,null,null
+Ferrari,TESTAR./512,FERRARI Testarossa,Yellow,Coupé,Zuzwil,Hinterradantrieb,1,1989,31700.0,Km,car,"",null,null,null,null,null
+Chevrolet,CORVETTE,CHEVROLET Corvette ZR1,Gold,Coupé,Zuzwil,Hinterradantrieb,2,2010,13000.0,Km,car,"",null,null,null,null,null
+BMW,M3,BMW M3,Gold,Cabriolet,Zuzwil,Hinterradantrieb,7,2008,78900.0,Km,car,"",null,null,null,null,null
+Ruf,"",RUF CTR,Gold,Coupé,Zuzwil,null,1,1990,46000.0,Km,car,"",null,null,null,null,null
+Renault,R5,RENAULT R5 Turbo 2,Gold,Kleinwagen,Zuzwil,Hinterradantrieb,5,1985,59900.0,Km,car,"",null,null,null,null,null
+Daimler,XJ,DAIMLER Six 4.0,Gold,Limousine,Zuzwil,Hinterradantrieb,1,1996,94800.0,Km,car,"",null,null,null,null,null
+Mazda,RX-7,MAZDA RX-7 2.6 Turbo II,Gray,Cabriolet,Zuzwil,Hinterradantrieb,8,1989,67200.0,Km,car,"",null,null,null,null,null
+Bugatti,"",BUGATTI Veyron 16.4,Other,Coupé,Sursee,Allrad,7,2008,20000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Gray,Coupé,Zuzwil,Allrad,10,2001,25900.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera Cabrio,Gray,Cabriolet,Zuzwil,Hinterradantrieb,6,2005,20400.0,Km,car,"",null,null,null,null,null
+Mercedes,S 500,MERCEDES-BENZ S 500 L 4Matic,Gray,Limousine,Zuzwil,Allrad,12,2002,54500.0,Km,car,"",null,null,null,null,null
+Bugatti,EB,BUGATTI EB 110 GT/SS,Gray,Coupé,Zuzwil,Allrad,8,1998,4000.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Gray,Kombi,Zuzwil,Allrad,10,2008,41900.0,Km,car,"",null,null,null,null,null
+Ferrari,575M,FERRARI 575M,Gray,Coupé,Zuzwil,Hinterradantrieb,12,2003,8100.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Gray,Kombi,Zuzwil,Allrad,1,2003,39000.0,Km,car,"",null,null,null,null,null
+Jaguar,S-TYPE,JAGUAR S-Type 4.2 V8 S/C R,Gray,Limousine,Zuzwil,Hinterradantrieb,7,2002,32900.0,Km,car,"",null,null,null,null,null
+Maserati,SPYDER GT,MASERATI Spyder GT,Gray,Cabriolet,Zuzwil,Hinterradantrieb,5,2002,63000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera Targa,Gray,Cabriolet,Zuzwil,Hinterradantrieb,5,2002,61800.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Other,Kombi,Zuzwil,Allrad,6,2008,32800.0,Km,car,"",null,null,null,null,null
+Ferrari,F355,FERRARI F355 GTS,Gray,Cabriolet,Zuzwil,Hinterradantrieb,10,1997,41000.0,Km,car,"",null,null,null,null,null
+Maserati,QUATTROPORTE,MASERATI Quattroporte 4.2,Gray,Limousine,Zuzwil,Hinterradantrieb,6,2006,46050.0,Km,car,"",null,null,null,null,null
+Mercedes,E 320,MERCEDES-BENZ E 320 Elégance 4-Matic,Gray,Limousine,Zuzwil,Allrad,3,2000,83900.0,Km,car,"",null,null,null,null,null
+Jaguar,XK,JAGUAR XK8 Convertible,Gray,Cabriolet,Zuzwil,Hinterradantrieb,7,1998,99800.0,Km,car,"",null,null,null,null,null
+Chevrolet,CORVETTE,CHEVROLET CORVETTE,Gray,Coupé,Zuzwil,Hinterradantrieb,1,1981,27700.0,Km,car,"",null,null,null,null,null
+Maserati,SPYDER GT,MASERATI Spyder GT,Gray,Cabriolet,Zuzwil,Hinterradantrieb,6,2002,88500.0,Km,car,"",null,null,null,null,null
+Ferrari,F360,FERRARI F360 Spider,Gray,Cabriolet,Zuzwil,Hinterradantrieb,9,2002,16600.0,Km,car,"",null,null,null,null,null
+Renault,R5,RENAULT R5 1400 Alpine Turbo,Gray,Kleinwagen,Zuzwil,Vorderradantrieb,7,1982,124500.0,Km,car,"",null,null,null,null,null
+Ferrari,575M,FERRARI 575M,Gray,Coupé,Zuzwil,Hinterradantrieb,12,2006,15900.0,Km,car,"",null,null,null,null,null
+Lancio,DELTA,LANCIA Delta HF Integrale Evo,Gray,Limousine,Zuzwil,Allrad,2,1992,155000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Other,Cabriolet,Zuzwil,Hinterradantrieb,7,1994,48700.0,Km,car,"",null,null,null,null,null
+Bentley,ARNAGE,BENTLEY Arnage R,Gray,Limousine,Zuzwil,Hinterradantrieb,4,2005,145000.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 500,MERCEDES-BENZ CL 500,Gray,Coupé,Zuzwil,Hinterradantrieb,1,2005,165.0,Km,car,"",null,null,null,null,null
+Mercedes,E 55 AMG,MERCEDES-BENZ E 55 AMG Avantgarde,Gray,Limousine,Zuzwil,Hinterradantrieb,3,1998,47400.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Gray,SUV / Geländewagen,Zuzwil,Allrad,6,2003,68700.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Gray,SUV / Geländewagen,Zuzwil,Allrad,8,2008,28000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Gray,Cabriolet,Zuzwil,Hinterradantrieb,3,2004,20000.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro MTM,Gray,Kombi,Zuzwil,Allrad,9,2008,24600.0,Km,car,"",null,null,null,null,null
+Austin-Healey,"",AUSTIN-HEALEY 100/Six BN6 Roadster,Gray,Cabriolet,Safenwil,Hinterradantrieb,1,1959,16900.0,Km,car,"",null,null,null,null,null
+Ruf,"",RUF CTR 2 Sport,Gray,Coupé,Zuzwil,Allrad,10,1997,20900.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Gray,Coupé,Zuzwil,Allrad,6,2002,52900.0,Km,car,"",null,null,null,null,null
+Bentley,TURBO,BENTLEY Turbo R,Other,Limousine,Zuzwil,Hinterradantrieb,4,1990,112500.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera S Cabrio,Gray,Cabriolet,Zuzwil,Hinterradantrieb,3,2006,29500.0,Km,car,"",null,null,null,null,null
+BMW,535,BMW 535i Touring,Gray,Kombi,Zuzwil,Hinterradantrieb,7,2011,76500.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Gray,Coupé,Zuzwil,Allrad,9,2003,63300.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Gray,SUV / Geländewagen,Zuzwil,Allrad,9,2004,31000.0,Km,car,"",null,null,null,null,null
+Toyota,CELICA,TOYOTA Celica 2800 i Supra,Gray,Coupé,Zuzwil,Hinterradantrieb,3,1983,158000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Gray,Coupé,Zuzwil,Allrad,5,1996,88100.0,Km,car,"",null,null,null,null,null
+Renault,Alpine A110,RENAULT Alpine A110 1600 SX,Gray,Coupé,Zuzwil,null,6,1977,41400.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 350,MERCEDES-BENZ SL 350,Gray,Cabriolet,Zuzwil,Hinterradantrieb,5,2004,105300.0,Km,car,"",null,null,null,null,null
+Land Rover,RANGE ROVER,LAND ROVER Range Rover 4.6 HSE,Gray,SUV / Geländewagen,Zuzwil,Allrad,12,1996,54600.0,Km,car,"",null,null,null,null,null
+Porsche,PANAMERA,PORSCHE Panamera Turbo 4.8,Gray,Limousine,Zuzwil,Allrad,1,2010,47500.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera,Other,Cabriolet,Zuzwil,Hinterradantrieb,7,1998,89500.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Gray,Kombi,Zuzwil,Allrad,3,2009,59900.0,Km,car,"",null,null,null,null,null
+BMW,540,BMW 540i Touring,Gray,Kombi,Zuzwil,Hinterradantrieb,1,1998,85800.0,Km,car,"",null,null,null,null,null
+Maserati,SPYDER GT,MASERATI Spyder GT,Gray,Cabriolet,Zuzwil,Hinterradantrieb,6,2003,50300.0,Km,car,"",null,null,null,null,null
+Maserati,COUPÉ GT,MASERATI Coupé GT,Gray,Coupé,Zuzwil,Hinterradantrieb,6,2002,114800.0,Km,car,"",null,null,null,null,null
+Lamborghini,HURACAN,LAMBORGHINI Huracan LP610-4 Coupé,Gray,Coupé,Zuzwil,Allrad,7,2015,300.0,Km,car,"",null,null,null,null,null
+Aston Martin,Virage,ASTON MARTIN Virage,Gray,Coupé,Zuzwil,Hinterradantrieb,4,1991,68800.0,Km,car,"",null,null,null,null,null
+Fiat,PUNTO,FIAT Punto 1.8 16V HGT,Gray,Kleinwagen,Zuzwil,Vorderradantrieb,5,2004,75200.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Gray,Kombi,Zuzwil,Allrad,4,2003,32900.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Gray,Kombi,Zuzwil,Allrad,8,2002,100200.0,Km,car,"",null,null,null,null,null
+BMW,X5,BMW X5 4.4i,Gray,SUV / Geländewagen,Zuzwil,Allrad,1,2001,113000.0,Km,car,"",null,null,null,null,null
+Other,"",GIOTTILINE Therry T22,Other,Wohnkabine,Zuzwil,Vorderradantrieb,4,2014,200.0,Km,car,"",null,null,null,null,null
+Ferrari,612,FERRARI 612,Gray,Coupé,Zuzwil,Hinterradantrieb,2,2008,37000.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Gray,Kombi,Zuzwil,Allrad,6,2008,36700.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Gray,Coupé,Zuzwil,Allrad,7,2000,69200.0,Km,car,"",null,null,null,null,null
+Mercedes,S 55 AMG,MERCEDES-BENZ S 55 AMG,Gray,Limousine,Zuzwil,Hinterradantrieb,7,2001,205500.0,Km,car,"",null,null,null,null,null
+Audi,R8,AUDI R8 Coupé 4.2,Gray,Coupé,Zuzwil,Allrad,6,2007,65000.0,Km,car,"",null,null,null,null,null
+Mercedes,CLK 63 AMG,MERCEDES-BENZ CLK 63 AMG Black Series,Gray,Coupé,Zuzwil,Hinterradantrieb,7,2008,36000.0,Km,car,"",null,null,null,null,null
+Bentley,CONTINENTAL,BENTLEY Continental GTC 6.0,Gray,Cabriolet,Zuzwil,Allrad,2,2007,58000.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Gray,Kombi,Zuzwil,Allrad,1,2004,93500.0,Km,car,"",null,null,null,null,null
+Ferrari,F550,FERRARI F550 Maranello,Gray,Coupé,Zuzwil,Hinterradantrieb,5,1997,62000.0,Km,car,"",null,null,null,null,null
+Aston Martin,DBS,ASTON MARTIN DBS Coupé,Gray,Coupé,Zuzwil,Hinterradantrieb,4,2012,5000.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Other,Kombi,Zuzwil,Allrad,10,2002,38500.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Other,Cabriolet,Zuzwil,Hinterradantrieb,4,1998,48300.0,Km,car,"",null,null,null,null,null
+Mercedes,S 500,MERCEDES-BENZ S 500,Gray,Limousine,Zuzwil,Hinterradantrieb,9,1999,112800.0,Km,car,"",null,null,null,null,null
+Mercedes,E 500,MERCEDES-BENZ E 500 Limited,Gray,Limousine,Zuzwil,Hinterradantrieb,6,1994,206000.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 65 AMG,MERCEDES-BENZ CL 65 AMG,Gray,Coupé,Zuzwil,Hinterradantrieb,1,2006,19800.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500 Special Edition,Gray,Cabriolet,Zuzwil,Hinterradantrieb,4,1996,55200.0,Km,car,"",null,null,null,null,null
+Lamborghini,GALLARDO,LAMBORGHINI Gallardo LP560-4 Coupé,Gray,Coupé,Zuzwil,Allrad,1,2009,24000.0,Km,car,"",null,null,null,null,null
+Porsche,BOXSTER,PORSCHE Boxster S 3.4,Gray,Cabriolet,Zuzwil,Hinterradantrieb,2,2007,68900.0,Km,car,"",null,null,null,null,null
+VW,PHAETON,VW Phaeton 4.2 V8 4Motion,Gray,Limousine,Zuzwil,Allrad,11,2003,119000.0,Km,car,"",null,null,null,null,null
+Ferrari,612,FERRARI 612,Gray,Coupé,Zuzwil,Hinterradantrieb,7,2004,45000.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Gray,Kombi,Zuzwil,Allrad,6,2008,14000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera,Gray,Coupé,Zuzwil,Hinterradantrieb,4,2001,135800.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Other,Coupé,Zuzwil,Allrad,11,2001,47600.0,Km,car,"",null,null,null,null,null
+Renault,"",RENAULT R8 Gordini,Gray,Kleinwagen,Zuzwil,null,4,1969,45000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 500,MERCEDES-BENZ S 500 L,Gray,Limousine,Zuzwil,Hinterradantrieb,5,1999,32700.0,Km,car,"",null,null,null,null,null
+BMW,323,BMW 323i Sport Edition,Gray,Limousine,Zuzwil,Hinterradantrieb,7,1997,82500.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 500,MERCEDES-BENZ CL 500 4Matic,Gray,Coupé,Zuzwil,Allrad,1,2011,79500.0,Km,car,"",null,null,null,null,null
+VW,BEETLE,VW BEETLE New Beetle Cup,Gray,Limousine,Zuzwil,Vorderradantrieb,9,2000,1.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Gray,SUV / Geländewagen,Zuzwil,Allrad,4,2003,127000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 500,MERCEDES-BENZ S 500 L,Gray,Limousine,Zuzwil,Hinterradantrieb,6,1998,128800.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Gray,Cabriolet,Zuzwil,Hinterradantrieb,6,2002,6000.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Gray,Kombi,Zuzwil,Allrad,11,2002,38500.0,Km,car,"",null,null,null,null,null
+MG,MGC,MG MGC GT,Gray,Coupé,Zuzwil,Hinterradantrieb,8,1968,48800.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8 4.2 quattro,Other,Limousine,Zuzwil,Allrad,9,1997,125400.0,Km,car,"",null,null,null,null,null
+Porsche,924,PORSCHE 924,Gray,Coupé,Zuzwil,Hinterradantrieb,4,1978,51000.0,Km,car,"",null,null,null,null,null
+Ford,"",FORD T - Roadster,Gray,Coupé,Zuzwil,Hinterradantrieb,1,1927,1.0,Km,car,"",null,null,null,null,null
+Mercedes,CLK 430,MERCEDES-BENZ CLK 430 Elégance,Gray,Coupé,Zuzwil,Hinterradantrieb,1,2001,100.0,Km,car,"",null,null,null,null,null
+VW,GOLF,VW Golf 2.0 TSI R 4Motion,Gray,Limousine,Zuzwil,Allrad,3,2011,36300.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera RS Clubsport/993 GT2,Gray,Coupé,Zuzwil,Hinterradantrieb,4,1996,91000.0,Km,car,"",null,null,null,null,null
+Land Rover,DEFENDER,LAND ROVER Defender 90 2.4Td4 SW,Gray,Kombi,Zuzwil,Allrad,2,2011,50400.0,Km,car,"",null,null,null,null,null
+Mercedes,S 65 AMG,MERCEDES-BENZ S 65 AMG L,Gray,Limousine,Zuzwil,Hinterradantrieb,3,2006,39800.0,Km,car,"",null,null,null,null,null
+Mercedes,ML 63 AMG,MERCEDES-BENZ ML 63 AMG 4Matic,Gray,SUV / Geländewagen,Zuzwil,Allrad,3,2009,88500.0,Km,car,"",null,null,null,null,null
+Audi,S6,AUDI S6 quattro 4.2,Gray,Limousine,Zuzwil,Allrad,5,1998,54500.0,Km,car,"",null,null,null,null,null
+Ferrari,F360,FERRARI F360 Modena Berlinetta,Gray,Coupé,Zuzwil,Hinterradantrieb,4,2000,41500.0,Km,car,"",null,null,null,null,null
+Mercedes,SLR,MERCEDES-BENZ SLR 730PS,Other,Coupé,Zuzwil,Hinterradantrieb,6,2004,34500.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Gray,Cabriolet,Zuzwil,Hinterradantrieb,4,2004,45500.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera Targa,Gray,Cabriolet,Zuzwil,Hinterradantrieb,1,2002,128000.0,Km,car,"",null,null,null,null,null
+Renault,Alpine A110,RENAULT Alpine A110 1600S VC,Gray,Coupé,Zuzwil,Hinterradantrieb,7,1972,34900.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Gray,Cabriolet,Zuzwil,Hinterradantrieb,2,1993,75900.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Gray,Coupé,Zuzwil,Allrad,8,2001,74100.0,Km,car,"",null,null,null,null,null
+Mercedes,S-CLASS,MERCEDES-BENZ S 55 L AMG,Gray,Limousine,Zuzwil,Hinterradantrieb,2,2003,73900.0,Km,car,"",null,null,null,null,null
+BMW,M3,BMW M3,Gray,Cabriolet,Zuzwil,Hinterradantrieb,6,2002,1600.0,Km,car,"",null,null,null,null,null
+BMW,740,BMW 740i,Gray,Limousine,Zuzwil,Hinterradantrieb,11,1995,89200.0,Km,car,"",null,null,null,null,null
+Lamborghini,GALLARDO,LAMBORGHINI Gallardo LP560-4 Spyder,Gray,Cabriolet,Zuzwil,Allrad,4,2011,4900.0,Km,car,"",null,null,null,null,null
+Other,VIPER,DODGE VIPER,Gray,Cabriolet,Zuzwil,Hinterradantrieb,4,1994,37900.0,Km,car,"",null,null,null,null,null
+Mercedes,S 65 AMG,MERCEDES-BENZ S 65 AMG L,Other,Limousine,Zuzwil,Hinterradantrieb,6,2006,97300.0,Km,car,"",null,null,null,null,null
+Mercedes,E 500,MERCEDES-BENZ E 500 Avantgarde,Gray,Limousine,Zuzwil,Hinterradantrieb,5,2003,29200.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8 4.2 quattro,Gray,Limousine,Zuzwil,Allrad,1,1997,66300.0,Km,car,"",null,null,null,null,null
+Porsche,BOXSTER,PORSCHE Boxster S 3.2,Gray,Cabriolet,Zuzwil,Hinterradantrieb,7,2000,51000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Gray,Cabriolet,Zuzwil,Hinterradantrieb,6,1997,106000.0,Km,car,"",null,null,null,null,null
+Ferrari,456,FERRARI 456 GTA,Gray,Coupé,Zuzwil,Hinterradantrieb,11,1997,32500.0,Km,car,"",null,null,null,null,null
+Ford,CORTINA,FORD CORTINA Cortina Lotus,Gray,Limousine,Zuzwil,Hinterradantrieb,4,1966,69377.0,Km,car,"",null,null,null,null,null
+Mercedes,SLK 200,MERCEDES-BENZ SLK 200,Gray,Cabriolet,Zuzwil,Hinterradantrieb,5,2011,13800.0,Km,car,"",null,null,null,null,null
+Mercedes,ML 63 AMG,MERCEDES-BENZ ML 63 AMG 4Matic,Gray,SUV / Geländewagen,Zuzwil,Allrad,6,2012,2000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 65 AMG,MERCEDES-BENZ S 65 AMG L,Gray,Limousine,Zuzwil,Hinterradantrieb,9,2006,130000.0,Km,car,"",null,null,null,null,null
+BMW,323,BMW 323 323i,Gray,Limousine,Zuzwil,Hinterradantrieb,4,1982,238500.0,Km,car,"",null,null,null,null,null
+Mercedes,CLS 500,MERCEDES-BENZ CLS 500,Other,Limousine,Zuzwil,Hinterradantrieb,1,2005,95400.0,Km,car,"",null,null,null,null,null
+Land Rover,RANGE ROVER,LAND ROVER Range Rover 4.6 HSE,Gray,SUV / Geländewagen,Zuzwil,Allrad,6,1998,42000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera 4,Gray,Coupé,Zuzwil,Allrad,11,1999,47700.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Gray,Kombi,Zuzwil,Allrad,6,2003,42600.0,Km,car,"",null,null,null,null,null
+Aston Martin,V12 Vanquish,ASTON MARTIN Vanquish V12,Gray,Coupé,Zuzwil,Hinterradantrieb,1,2003,24600.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 500,MERCEDES-BENZ CL 500,Gray,Coupé,Zuzwil,Hinterradantrieb,11,2001,55900.0,Km,car,"",null,null,null,null,null
+BMW,530 Gran Turismo,BMW 530d GT,Gray,Limousine,Zuzwil,Hinterradantrieb,1,2010,67800.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GT2,Gray,Coupé,Zuzwil,Hinterradantrieb,5,2009,44600.0,Km,car,"",null,null,null,null,null
+BMW,740,BMW 740i,Gray,Limousine,Zuzwil,Hinterradantrieb,7,1995,65400.0,Km,car,"",null,null,null,null,null
+BMW,"",BMW 1602,Gray,Limousine,Zuzwil,Hinterradantrieb,2,1975,104650.0,Km,car,"",null,null,null,null,null
+Land Rover,RANGE ROVER,LAND ROVER RANGE ROVER 3.5,Gray,SUV / Geländewagen,Zuzwil,Allrad,3,1989,151300.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT Alpine A310 V6,Other,Coupé,Zuzwil,Hinterradantrieb,5,1981,153600.0,Km,car,"",null,null,null,null,null
+Talbot Lago,MATRA,TALBOT Murena 2.2,Gray,Coupé,Zuzwil,Hinterradantrieb,4,1982,182200.0,Km,car,"",null,null,null,null,null
+Mercedes,SLK 350,MERCEDES-BENZ SLK 350,Gray,Cabriolet,Zuzwil,Hinterradantrieb,3,2008,70400.0,Km,car,"",null,null,null,null,null
+Austin-Healey,"",AUSTIN-HEALEY BT7 3000 Mk I,Gray,Cabriolet,Zuzwil,Hinterradantrieb,1,1960,9999.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo S,Gray,SUV / Geländewagen,Zuzwil,Allrad,8,2006,36600.0,Km,car,"",null,null,null,null,null
+Lotus,Super Seven,LOTUS Super Seven HKT,Gray,Cabriolet,Zuzwil,null,9,2002,26800.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne S,Gray,SUV / Geländewagen,Zuzwil,Allrad,3,2003,59900.0,Km,car,"",null,null,null,null,null
+Maserati,QUATTROPORTE,MASERATI Quattroporte 4.7 S,Gray,Limousine,Zuzwil,Hinterradantrieb,11,2010,29000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 250,MERCEDES-BENZ S 250 CDI BlueEff SS,Gray,Limousine,Zuzwil,Hinterradantrieb,9,2011,43000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 320,MERCEDES-BENZ S 320 CDI,Gray,Limousine,Zuzwil,Hinterradantrieb,2,2004,9900.0,Km,car,"",null,null,null,null,null
+Ferrari,456,FERRARI 456M GTA,Gray,Coupé,Zuzwil,Hinterradantrieb,5,2000,68000.0,Km,car,"",null,null,null,null,null
+Lamborghini,MURCIÉLAGO,LAMBORGHINI Murciélago 6.2 Roadster,Other,Cabriolet,Zuzwil,Allrad,1,2006,16200.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Gray,Cabriolet,Zuzwil,Hinterradantrieb,2,2002,47300.0,Km,car,"",null,null,null,null,null
+BMW,730,BMW 730i,Green,Limousine,Zuzwil,Hinterradantrieb,9,2007,114600.0,Km,car,"",null,null,null,null,null
+BMW,M5,BMW M5,Green,Limousine,Zuzwil,Hinterradantrieb,9,1999,54600.0,Km,car,"",null,null,null,null,null
+Simca,"",SIMCA Rallye2,Green,Coupé,Zuzwil,Hinterradantrieb,11,1976,18200.0,Km,car,"",null,null,null,null,null
+BMW,M3,BMW M3,Green,Cabriolet,Zuzwil,Hinterradantrieb,12,2002,52900.0,Km,car,"",null,null,null,null,null
+Mercedes,ML 63 AMG,MERCEDES-BENZ ML 63 AMG 4Matic,Green,SUV / Geländewagen,Zuzwil,Allrad,3,2007,13300.0,Km,car,"",null,null,null,null,null
+Audi,R8,AUDI R8 Coupé 4.2,Green,Coupé,Zuzwil,Allrad,9,2007,61300.0,Km,car,"",null,null,null,null,null
+Mercedes,E 420,MERCEDES-BENZ E 420 Elégance,Green,Kombi,Zuzwil,Hinterradantrieb,10,1997,44000.0,Km,car,"",null,null,null,null,null
+Ferrari,456,FERRARI 456M GTA,Green,Coupé,Zuzwil,Hinterradantrieb,8,1999,92000.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8 4.2 quattro,Green,Limousine,Zuzwil,Allrad,10,1997,63400.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Other,SUV / Geländewagen,Zuzwil,Allrad,3,2007,36700.0,Km,car,"",null,null,null,null,null
+McLaren,12C,McLAREN MP4-12C Spider 3.8 V8,Green,Cabriolet,Zuzwil,Hinterradantrieb,5,2013,16000.0,Km,car,"",null,null,null,null,null
+BMW,323,BMW 323 323i,Green,Limousine,Zuzwil,Hinterradantrieb,10,1980,176000.0,Km,car,"",null,null,null,null,null
+BMW,M3,BMW M3,Green,Limousine,Zuzwil,Hinterradantrieb,2,1987,195800.0,Km,car,"",null,null,null,null,null
+BMW,Z4,BMW Z4 2.5i Roadster,Green,Cabriolet,Zuzwil,Hinterradantrieb,3,2003,103600.0,Km,car,"",null,null,null,null,null
+Lancio,"",LANCIA Rally 037 stradale,Green,Limousine,Zuzwil,null,4,1984,13000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 600,MERCEDES-BENZ S 600,Green,Coupé,Zuzwil,Hinterradantrieb,3,1996,88500.0,Km,car,"",null,null,null,null,null
+Ferrari,348,FERRARI 348 tb,Green,Coupé,Zuzwil,Hinterradantrieb,3,1994,34000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 63 AMG,MERCEDES-BENZ SL 63 AMG,Green,Cabriolet,Zuzwil,Hinterradantrieb,6,2008,62700.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo S Cabrio SPEED ART 580PS,Green,Cabriolet,Zuzwil,Allrad,4,2011,16000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 500,MERCEDES-BENZ S 500 L,Green,Limousine,Porrentruy,Hinterradantrieb,9,2011,19900.0,Km,car,"",null,null,null,null,null
+Mercedes,S 65 AMG,MERCEDES-BENZ S 65 L / BRABUS T65 S,Beige,Limousine,Zuzwil,Hinterradantrieb,2,2007,46000.0,Km,car,"",null,null,null,null,null
+Mercedes,"",MERCEDES-BENZ E 60 Carlsson,Green,Limousine,Zuzwil,Hinterradantrieb,11,1996,72000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Green,Coupé,Zuzwil,Allrad,4,2003,38600.0,Km,car,"",null,null,null,null,null
+Lamborghini,DIABLO,LAMBORGHINI Diablo SE 30,Green,Coupé,Porrentruy,Hinterradantrieb,9,1995,64800.0,Km,car,"",null,null,null,null,null
+Aston Martin,DBS,ASTON MARTIN DBS Volante,Green,Cabriolet,Zuzwil,Hinterradantrieb,4,2010,71300.0,Km,car,"",null,null,null,null,null
+Bentley,CONTINENTAL,BENTLEY Continental Supersports Conv.,Green,Cabriolet,Zuzwil,Allrad,9,2010,15000.0,Km,car,"",null,null,null,null,null
+Lexus,GS,LEXUS GS 450h,Green,Limousine,Zuzwil,Hinterradantrieb,7,2006,34000.0,Km,car,"",null,null,null,null,null
+Fiat,Dino,FIAT Dino 2400 Coupé,Green,Coupé,Zuzwil,Hinterradantrieb,10,1972,131000.0,Km,car,"",null,null,null,null,null
+BMW,323,BMW 323Ci,Green,Cabriolet,Zuzwil,Hinterradantrieb,7,2000,140000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Green,Cabriolet,Zuzwil,Hinterradantrieb,4,1999,16300.0,Km,car,"",null,null,null,null,null
+Mercedes,CLS 55 AMG,MERCEDES-BENZ CLS 55 AMG,Green,Limousine,Zuzwil,Hinterradantrieb,2,2006,118300.0,Km,car,"",null,null,null,null,null
+Chevrolet,CORVETTE,CHEVROLET Corvette Z06,Other,Coupé,Zuzwil,Hinterradantrieb,6,2015,200.0,Km,car,"",null,null,null,null,null
+Mercedes,E 55 AMG,MERCEDES-BENZ E 55 AMG Avantgarde,Beige,Limousine,Zuzwil,Hinterradantrieb,6,1998,49900.0,Km,car,"",null,null,null,null,null
+Other,"",NSU TT,Green,Limousine,Zuzwil,null,8,1972,10352.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Green,Coupé,Zuzwil,Allrad,2,2002,77600.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Green,Kombi,Zuzwil,Allrad,10,2008,42500.0,Km,car,"",null,null,null,null,null
+Audi,S3,AUDI S3 2.0 TFSI quattro,Green,Limousine,Zuzwil,Allrad,4,2010,34800.0,Km,car,"",null,null,null,null,null
+Ferrari,575M,FERRARI 575M NOVITEC,Green,Coupé,Zuzwil,Hinterradantrieb,6,2003,14500.0,Km,car,"",null,null,null,null,null
+Ferrari,MONDIAL,FERRARI Mondial 3.4 T,Green,Coupé,Zuzwil,Hinterradantrieb,5,1992,56500.0,Km,car,"",null,null,null,null,null
+VW,PHAETON,VW Phaeton 6.0 W12 4Motion,Green,Limousine,Zuzwil,Allrad,11,2002,43900.0,Km,car,"",null,null,null,null,null
+Mercedes,"",MERCEDES-BENZ CLK DTM AMG,Green,Limousine,Zuzwil,Hinterradantrieb,8,2005,16660.0,Km,car,"",null,null,null,null,null
+Mercedes,CLK 55 AMG,MERCEDES-BENZ CLK 55 AMG Avantgarde,Green,Cabriolet,Zuzwil,Hinterradantrieb,12,2003,23700.0,Km,car,"",null,null,null,null,null
+Mercedes,E 430,MERCEDES-BENZ E 430 Avantgarde,Green,Limousine,Zuzwil,Hinterradantrieb,2,1998,75000.0,Km,car,"",null,null,null,null,null
+Mercedes,CLS 63 AMG,MERCEDES-BENZ CLS 63 AMG,Beige,Limousine,Zuzwil,Hinterradantrieb,12,2008,19100.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 55 AMG,MERCEDES-BENZ CL 55 AMG,Green,Coupé,Zuzwil,Hinterradantrieb,3,2001,50200.0,Km,car,"",null,null,null,null,null
+BMW,323,BMW 323 Alpina Look,Green,Coupé,Zuzwil,Hinterradantrieb,2,1982,211000.0,Km,car,"",null,null,null,null,null
+Peugeot,406,PEUGEOT 406 Coupé 3.0 V6 Pack,Green,Coupé,Zuzwil,Vorderradantrieb,10,2003,72600.0,Km,car,"",null,null,null,null,null
+BMW,633,BMW 633 CSI A,Green,Coupé,Zuzwil,Hinterradantrieb,1,1977,128600.0,Km,car,"",null,null,null,null,null
+Mercedes,SLK 320,MERCEDES-BENZ SLK 320,Green,Cabriolet,Zuzwil,Hinterradantrieb,5,2000,43200.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Green,Kombi,Zuzwil,Allrad,12,2008,45300.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Green,Cabriolet,Zuzwil,Hinterradantrieb,5,2004,7600.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 600,MERCEDES-BENZ CL 600,Green,Coupé,Zuzwil,Hinterradantrieb,5,2000,29000.0,Km,car,"",null,null,null,null,null
+Audi,A6,AUDI A6 2.8 Ambiente,Green,Limousine,Zuzwil,Vorderradantrieb,2,1998,94000.0,Km,car,"",null,null,null,null,null
+Mercedes,ML 63 AMG,MERCEDES-BENZ ML 63 AMG 4Matic,Green,SUV / Geländewagen,Zuzwil,Allrad,1,2012,16500.0,Km,car,"",null,null,null,null,null
+BMW,X5,BMW X5 4.4i,Beige,SUV / Geländewagen,Zuzwil,Allrad,11,2000,40500.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Green,Cabriolet,Zuzwil,Hinterradantrieb,5,1996,12900.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Green,Coupé,Zuzwil,Allrad,2,2007,34000.0,Km,car,"",null,null,null,null,null
+Land Rover,RANGE ROVER,LAND ROVER Range Rover 4.6 HSE,Green,SUV / Geländewagen,Zuzwil,Allrad,10,1998,70000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Green,Cabriolet,Zuzwil,Hinterradantrieb,5,2002,33400.0,Km,car,"",null,null,null,null,null
+Alfa Romeo,ALFASUD,ALFA ROMEO Alfasud 1.5 ti,Green,Limousine,Zuzwil,Vorderradantrieb,8,1981,81900.0,Km,car,"",null,null,null,null,null
+Mercedes,S 600,MERCEDES-BENZ S 600,Green,Coupé,Zuzwil,Hinterradantrieb,4,1993,99500.0,Km,car,"",null,null,null,null,null
+Ferrari,Dino,FERRARI Dino 246 GTS,Green,Cabriolet,Sursee,Hinterradantrieb,3,1974,5000.0,Km,car,"",null,null,null,null,null
+Audi,S8,AUDI S8 4.2 quattro,Green,Limousine,Zuzwil,Allrad,7,1998,55000.0,Km,car,"",null,null,null,null,null
+Chevrolet,CORVETTE,CHEVROLET Corvette ZR1,Green,Coupé,Zuzwil,Hinterradantrieb,6,2009,6300.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GT2,Green,Coupé,Zuzwil,Hinterradantrieb,12,2007,20900.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Beige,Cabriolet,Zuzwil,Hinterradantrieb,6,1996,34000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 63 AMG,MERCEDES-BENZ SL 63 AMG,Green,Cabriolet,Zuzwil,Hinterradantrieb,1,2009,84000.0,Km,car,"",null,null,null,null,null
+Renault,Alpine A110,RENAULT Alpine A110,Green,Coupé,Zuzwil,Hinterradantrieb,7,1977,91000.0,Km,car,"",null,null,null,null,null
+Ferrari,F360,FERRARI F360 Spider,Green,Cabriolet,Zuzwil,Hinterradantrieb,3,2003,53600.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Green,Coupé,Zuzwil,Allrad,1,2004,47500.0,Km,car,"",null,null,null,null,null
+BMW,M5,BMW M5,Green,Limousine,Zuzwil,Hinterradantrieb,8,2005,33600.0,Km,car,"",null,null,null,null,null
+Saab,9-3,SAAB 9-3 2.0i-16 T SE,Green,Cabriolet,Zuzwil,Vorderradantrieb,5,2003,138000.0,Km,car,"",null,null,null,null,null
+Maserati,QUATTROPORTE,MASERATI Quattroporte 4.2 Exec. GT,Orange,Limousine,Zuzwil,Hinterradantrieb,3,2006,33600.0,Km,car,"",null,null,null,null,null
+Alfa Romeo,GTV,ALFA ROMEO GTV 6 2.5,Orange,Coupé,Zuzwil,Hinterradantrieb,6,1984,584.0,Km,car,"",null,null,null,null,null
+Mercedes,"",MERCEDES-BENZ SL 60,Orange,Cabriolet,Zuzwil,Hinterradantrieb,12,1992,89100.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GT3 CUP Rennwagen,Orange,Coupé,Zuzwil,Hinterradantrieb,1,2007,5000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Blue,Cabriolet,Zuzwil,Hinterradantrieb,10,2002,32000.0,Km,car,"",null,null,null,null,null
+Lamborghini,DIABLO,LAMBORGHINI DIABLO SV-R Race,Orange,Coupé,Porrentruy,Allrad,0,1996,7000.0,Km,car,"",null,null,null,null,null
+Bentley,TURBO,BENTLEY Turbo R,Red,Limousine,Zuzwil,Hinterradantrieb,5,1990,60100.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Red,Coupé,Zuzwil,Allrad,7,2008,9650.0,Km,car,"",null,null,null,null,null
+Maserati,COUPÉ GT,MASERATI Coupé GT,Red,Coupé,Zuzwil,Hinterradantrieb,3,2005,41800.0,Km,car,"",null,null,null,null,null
+Mercedes,E 350,MERCEDES-BENZ E 350 Elégance 4Matic,Red,Kombi,Zuzwil,Allrad,4,2005,140200.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 65 AMG,MERCEDES-BENZ SL 65 AMG,Red,Cabriolet,Zuzwil,Hinterradantrieb,5,2005,22100.0,Km,car,"",null,null,null,null,null
+Ferrari,F360,FERRARI F360 Spider,Red,Cabriolet,Zuzwil,Hinterradantrieb,5,2001,58000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Red,Cabriolet,Zuzwil,Hinterradantrieb,5,2004,20900.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Red,Cabriolet,Zuzwil,Hinterradantrieb,5,2002,36800.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro 730PS,Red,Kombi,Zuzwil,Allrad,7,2008,112400.0,Km,car,"",null,null,null,null,null
+Audi,S4,AUDI S4 Avant quattro,Blue,Kombi,Zuzwil,Allrad,7,2000,185900.0,Km,car,"",null,null,null,null,null
+Porsche,944,PORSCHE 944 S2 Cabriolet ABS,Red,Cabriolet,Zuzwil,Hinterradantrieb,4,1990,148600.0,Km,car,"",null,null,null,null,null
+Other,VIPER,DODGE VIPER RT/10,Red,Cabriolet,Zuzwil,Hinterradantrieb,12,2001,18600.0,Km,car,"",null,null,null,null,null
+Land Rover,RANGE ROVER,LAND ROVER Range Rover 4.4 V8 HSE,Red,SUV / Geländewagen,Zuzwil,Allrad,12,2003,90400.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Red,Kombi,Zuzwil,Allrad,9,2003,47000.0,Km,car,"",null,null,null,null,null
+Ferrari,F355,FERRARI F355 Spider,Red,Cabriolet,Zuzwil,Hinterradantrieb,10,1998,67000.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne S,Red,SUV / Geländewagen,Zuzwil,Allrad,9,2007,78400.0,Km,car,"",null,null,null,null,null
+Mercedes,S 63 AMG,MERCEDES-BENZ S 63 AMG,Red,Limousine,Zuzwil,Hinterradantrieb,10,2013,4900.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera,Red,Coupé,Zuzwil,Hinterradantrieb,1,1998,58200.0,Km,car,"",null,null,null,null,null
+Aston Martin,DB9,ASTON MARTIN DB9 Volante,Red,Cabriolet,Zuzwil,Hinterradantrieb,5,2006,41000.0,Km,car,"",null,null,null,null,null
+Opel,SPEEDSTER,OPEL Speedster 2.0 16V Turbo,Red,Cabriolet,Zuzwil,Hinterradantrieb,6,2003,11700.0,Km,car,"",null,null,null,null,null
+Lamborghini,MURCIÉLAGO,LAMBORGHINI Murciélago 6.2 Coupé,Blue,Coupé,Zuzwil,Allrad,5,2002,16000.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Red,Kombi,Zuzwil,Allrad,3,2009,89000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo S Cabrio,Red,Cabriolet,Zuzwil,Allrad,4,2014,9900.0,Km,car,"",null,null,null,null,null
+Mercedes,E 63 AMG,MERCEDES-BENZ E 63 AMG CGI,Red,Limousine,Zuzwil,Hinterradantrieb,1,2012,20100.0,Km,car,"",null,null,null,null,null
+BMW,740,BMW 740i,Red,Limousine,Zuzwil,Hinterradantrieb,2,1998,63000.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Red,SUV / Geländewagen,Zuzwil,Allrad,3,2003,79000.0,Km,car,"",null,null,null,null,null
+Ferrari,F430,FERRARI F430,Red,Coupé,Zuzwil,Hinterradantrieb,3,2007,45000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Red,Cabriolet,Zuzwil,Hinterradantrieb,6,2002,36800.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera 4 Ruf Turbo BTR 2 420 PS,Red,Coupé,Zuzwil,Allrad,4,1995,96000.0,Km,car,"",null,null,null,null,null
+Mitsubishi,STARION,MITSUBISHI Starion 2000 Turbo,Red,Coupé,Zuzwil,Hinterradantrieb,4,1983,114800.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo Cabrio,Red,Cabriolet,Zuzwil,Allrad,1,2004,14400.0,Km,car,"",null,null,null,null,null
+BMW,330,BMW 330Ci,Blue,Coupé,Zuzwil,Hinterradantrieb,3,2002,81900.0,Km,car,"",null,null,null,null,null
+Bentley,Mulsanne,BENTLEY Mulsanne Turbo,Red,Limousine,Zuzwil,Hinterradantrieb,9,1986,101500.0,Km,car,"",null,null,null,null,null
+Chrysler,300C,CHRYSLER 300C T 5.7 HEMI V8,Red,Kombi,Zuzwil,Hinterradantrieb,1,2007,47100.0,Km,car,"",null,null,null,null,null
+Saab,9-3,SAAB 9-3 2.0T Performance,Red,Limousine,Zuzwil,Vorderradantrieb,4,2005,104400.0,Km,car,"",null,null,null,null,null
+Volvo,V70,VOLVO V70 2.4T,Red,Kombi,Zuzwil,Vorderradantrieb,4,2002,83000.0,Km,car,"",null,null,null,null,null
+VW,PHAETON,VW Phaeton 3.0 TDi V6 4M,Red,Limousine,Zuzwil,Allrad,7,2008,84600.0,Km,car,"",null,null,null,null,null
+Mercedes,C 350,MERCEDES-BENZ C 350 Elégance 4Matic,Red,Limousine,Zuzwil,Allrad,11,2006,43700.0,Km,car,"",null,null,null,null,null
+BMW,M5,BMW M5,Red,Limousine,Zuzwil,Hinterradantrieb,4,1999,29800.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Red,Cabriolet,Zuzwil,Hinterradantrieb,5,1993,68900.0,Km,car,"",null,null,null,null,null
+Porsche,BOXSTER,PORSCHE Boxster 2.5,Red,Cabriolet,Zuzwil,Hinterradantrieb,3,1998,73200.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 600,MERCEDES-BENZ CL 600,Red,Coupé,Zuzwil,Hinterradantrieb,1,1996,36600.0,Km,car,"",null,null,null,null,null
+Triumph,Spitfire,TRIUMPH Spitfire MK IV,Blue,Cabriolet,Zuzwil,Hinterradantrieb,3,1974,38000.0,Km,car,"",null,null,null,null,null
+Rolls-Royce,Silver Shadow,ROLLS-ROYCE Silver Shadow II,Red,Limousine,Zuzwil,Hinterradantrieb,6,1978,30900.0,Km,car,"",null,null,null,null,null
+Jaguar,XJ,JAGUAR XJR 4.0 V8 S/C,Red,Limousine,Zuzwil,Hinterradantrieb,1,2001,95100.0,Km,car,"",null,null,null,null,null
+Bentley,ARNAGE,BENTLEY Arnage T,Red,Limousine,Zuzwil,Hinterradantrieb,5,2002,62000.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 600,MERCEDES-BENZ CL 600,Red,Coupé,Zuzwil,Hinterradantrieb,4,2007,99999.0,Km,car,"",null,null,null,null,null
+Mercedes,E 63 AMG,MERCEDES-BENZ E 63 AMG,Red,Limousine,Zuzwil,Hinterradantrieb,1,2010,29000.0,Km,car,"",null,null,null,null,null
+Marcos,"",MARCOS 1600 GT,Red,Coupé,Zuzwil,Hinterradantrieb,4,1968,85000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Red,Cabriolet,Zuzwil,Hinterradantrieb,4,1993,117900.0,Km,car,"",null,null,null,null,null
+Renault,CLIO,RENAULT CLIO Rennwagen,Red,Limousine,Zuzwil,Vorderradantrieb,2,2000,99.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT ALPINE V6,Red,Coupé,Zuzwil,Hinterradantrieb,11,1982,82400.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GT3 CS,Red,Coupé,Zuzwil,null,1,2001,21100.0,Km,car,"",null,null,null,null,null
+Lincoln,Navigator,LINCOLN Navigator 32 V,Blue,SUV / Geländewagen,Zuzwil,null,3,2003,130000.0,Km,car,"",null,null,null,null,null
+Ferrari,575M,FERRARI 575M,Red,Coupé,Zuzwil,Hinterradantrieb,1,2004,28000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 65 AMG,MERCEDES-BENZ SL 65 AMG BLACK SERIES,Red,Coupé,Zuzwil,Hinterradantrieb,4,2012,43000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Red,Coupé,Zuzwil,Allrad,1,2002,29000.0,Km,car,"",null,null,null,null,null
+Mercedes,E 420,MERCEDES-BENZ E 420 Avantgarde,Red,Limousine,Zuzwil,Hinterradantrieb,5,1996,132600.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8 4.2 quattro,Red,Limousine,Zuzwil,Allrad,1,1999,69900.0,Km,car,"",null,null,null,null,null
+Ferrari,F430,FERRARI F430,Red,Coupé,Zuzwil,Hinterradantrieb,3,2006,4400.0,Km,car,"",null,null,null,null,null
+Other,"",DODGE B 200,Red,Kompaktvan / Minivan,Zuzwil,Hinterradantrieb,7,1979,13800.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Red,Kombi,Zuzwil,Allrad,9,2010,38000.0,Km,car,"",null,null,null,null,null
+BMW,M3,BMW M3,Red,Coupé,Zuzwil,Hinterradantrieb,9,2001,127800.0,Km,car,"",null,null,null,null,null
+Audi,A6,AUDI A6 Avant 2.7 T Ambition,Red,Kombi,Zuzwil,Vorderradantrieb,9,2000,45000.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo Techart Magnum Kit,Other,SUV / Geländewagen,Zuzwil,Allrad,1,2010,2900.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Blue,Kombi,Zuzwil,Allrad,5,2003,43400.0,Km,car,"",null,null,null,null,null
+Jaguar,S-TYPE,JAGUAR S-Type 4.0 V8,Red,Limousine,Zuzwil,Hinterradantrieb,1,2000,44200.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo S,Red,Coupé,Zuzwil,Allrad,1,2015,100.0,Km,car,"",null,null,null,null,null
+Toyota,"",TOYOTA 1000 / Publica,Red,Limousine,Zuzwil,Hinterradantrieb,5,1977,78000.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8 4.2 quattro,Red,Limousine,Zuzwil,Allrad,9,1997,33800.0,Km,car,"",null,null,null,null,null
+Jaguar,XK,JAGUAR XKR S/C Convertible,Red,Cabriolet,Zuzwil,Hinterradantrieb,4,2002,77600.0,Km,car,"",null,null,null,null,null
+Audi,A4,AUDI A4 Avant 2.8 q.Ambition,Red,Kombi,Zuzwil,Allrad,4,1998,196300.0,Km,car,"",null,null,null,null,null
+Mercedes,E 50 AMG,MERCEDES-BENZ E 50 AMG Avantgarde,Red,Limousine,Zuzwil,Hinterradantrieb,11,1996,33700.0,Km,car,"",null,null,null,null,null
+BMW,X5,BMW X5 4.8is,Red,SUV / Geländewagen,Zuzwil,Allrad,8,2004,61900.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Red,Kombi,Zuzwil,Allrad,9,2002,71900.0,Km,car,"",null,null,null,null,null
+BMW,135,BMW 135i,Black,Cabriolet,Zuzwil,Hinterradantrieb,10,2008,25700.0,Km,car,"",null,null,null,null,null
+Ferrari,456,FERRARI 456M GT,Blue,Coupé,Zuzwil,Hinterradantrieb,3,2000,46500.0,Km,car,"",null,null,null,null,null
+Mercedes,CLK 55 AMG,MERCEDES-BENZ CLK 55 AMG Avantgarde,Black,Cabriolet,Zuzwil,Hinterradantrieb,2,2003,92300.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Black,Cabriolet,Zuzwil,Hinterradantrieb,7,2003,43300.0,Km,car,"",null,null,null,null,null
+Mercedes,S 600,MERCEDES-BENZ S 600,Black,Coupé,Zuzwil,Hinterradantrieb,6,1995,62000.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT ALPINE 2700VA,Black,Coupé,Zuzwil,Hinterradantrieb,8,1979,36900.0,Km,car,"",null,null,null,null,null
+Nissan,SUNNY,NISSAN SUNNY 2.0 16V GTI-R Rallye,Black,Limousine,Zuzwil,Allrad,1,1992,98000.0,Km,car,"",null,null,null,null,null
+Alfa Romeo,GTV,ALFA ROMEO GTV 2000 Bertone,Black,Coupé,Zuzwil,Hinterradantrieb,2,1972,18400.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Black,Cabriolet,Zuzwil,Hinterradantrieb,9,1991,55300.0,Km,car,"",null,null,null,null,null
+Lamborghini,GALLARDO,LAMBORGHINI Gallardo LP570-4 Coupé SL,Black,Coupé,Zuzwil,Allrad,1,2011,19300.0,Km,car,"",null,null,null,null,null
+Other,IBIZA,SEAT Ibiza 1.9 TDI FR,Black,Kleinwagen,Zuzwil,Vorderradantrieb,8,2005,132200.0,Km,car,"",null,null,null,null,null
+Volvo,S40,VOLVO S40 2.0 T,Black,Limousine,Zuzwil,Vorderradantrieb,5,1999,107000.0,Km,car,"",null,null,null,null,null
+Mercedes,CLS 500,MERCEDES-BENZ CLS 500,Blue,Limousine,Zuzwil,Hinterradantrieb,12,2004,51000.0,Km,car,"",null,null,null,null,null
+Audi,R8,AUDI R8 Spyder 5.2,Black,Cabriolet,Zuzwil,Allrad,4,2010,37000.0,Km,car,"",null,null,null,null,null
+Mercedes,500,MERCEDES-BENZ 500 SE,Black,Limousine,Zuzwil,Hinterradantrieb,7,1991,156300.0,Km,car,"",null,null,null,null,null
+Jeep,Grand Cherokee,JEEP Grand Cherokee 5.2 Ltd.,Black,SUV / Geländewagen,Zuzwil,Allrad,2,1995,133500.0,Km,car,"",null,null,null,null,null
+Ferrari,F355,FERRARI F355 Spider,Black,Cabriolet,Zuzwil,Hinterradantrieb,7,1998,34600.0,Km,car,"",null,null,null,null,null
+Audi,S6,AUDI S6 Avant quattro 4.2,Black,Kombi,Zuzwil,Allrad,6,1997,91900.0,Km,car,"",null,null,null,null,null
+BMW,M5,BMW M5,Black,Limousine,Zuzwil,Hinterradantrieb,9,2013,15300.0,Km,car,"",null,null,null,null,null
+Lamborghini,GALLARDO,LAMBORGHINI Gallardo LP560-4 Coupé,Black,Coupé,Zuzwil,Allrad,6,2008,28500.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Black,Cabriolet,Zuzwil,Hinterradantrieb,6,2003,45300.0,Km,car,"",null,null,null,null,null
+Mercedes,C 180,MERCEDES-BENZ C 180 Esprit,Black,Limousine,Zuzwil,Hinterradantrieb,11,1997,118200.0,Km,car,"",null,null,null,null,null
+Lamborghini,MURCIÉLAGO,LAMBORGHINI Murciélago 6.2 Coupé,Black,Coupé,Zuzwil,Allrad,7,2005,49800.0,Km,car,"",null,null,null,null,null
+Mercedes,"",MERCEDES-BENZ SL 250 Pagode,Blue,Cabriolet,Zuzwil,Hinterradantrieb,1,1967,47700.0,Km,car,"",null,null,null,null,null
+Lamborghini,MURCIÉLAGO,LAMBORGHINI Murciélago LP640-4 Cpé,Black,Coupé,Porrentruy,Allrad,4,2011,7890.0,Km,car,"",null,null,null,null,null
+BMW,X5,BMW X5 4.4i,Black,SUV / Geländewagen,Zuzwil,Allrad,5,2003,66800.0,Km,car,"",null,null,null,null,null
+Audi,S8,AUDI S8 4.2 quattro,Black,Limousine,Zuzwil,Allrad,3,2001,49300.0,Km,car,"",null,null,null,null,null
+Mercedes,E 500,MERCEDES-BENZ E 500 Avantgarde,Black,Kombi,Zuzwil,Hinterradantrieb,4,2004,123300.0,Km,car,"",null,null,null,null,null
+BMW,750,BMW 750iL,Black,Limousine,Zuzwil,Hinterradantrieb,1,1995,111900.0,Km,car,"",null,null,null,null,null
+BMW,330,BMW 330Ci,Black,Cabriolet,Zuzwil,Hinterradantrieb,5,2001,65300.0,Km,car,"",null,null,null,null,null
+BMW,320,BMW 320i Touring,Black,Kombi,Zuzwil,Hinterradantrieb,1,1996,79800.0,Km,car,"",null,null,null,null,null
+Renault,"",RENAULT DAUPHINE GORDINI,Black,Limousine,Zuzwil,Hinterradantrieb,7,1960,177000.0,Km,car,"",null,null,null,null,null
+BMW,525,BMW 525xi,Black,Limousine,Zuzwil,Allrad,1,2007,99800.0,Km,car,"",null,null,null,null,null
+Rolls-Royce,CORNICHE,ROLLS-ROYCE CORNICHE II Coupé,Black,Coupé,Basel,null,7,1980,32000.0,Km,car,"",null,null,null,null,null
+Land Rover,RANGE ROVER SPORT,LAND ROVER Range Rover Sport 4.2 V8 SC,Blue,SUV / Geländewagen,Zuzwil,Allrad,6,2006,49900.0,Km,car,"",null,null,null,null,null
+Ferrari,F40 / F50,FERRARI F40 / F50,Black,Coupé,Sursee,Hinterradantrieb,2,1989,7000.0,Km,car,"",null,null,null,null,null
+Renault,Alpine A110,RENAULT Alpine A110 1600 S,Black,Coupé,Zuzwil,Hinterradantrieb,2,1972,68000.0,Km,car,"",null,null,null,null,null
+Mercedes,CLS 63 AMG,MERCEDES-BENZ CLS 63 AMG,Black,Limousine,Zuzwil,Hinterradantrieb,9,2011,69200.0,Km,car,"",null,null,null,null,null
+BMW,M3,BMW M3,Black,Limousine,Zuzwil,Hinterradantrieb,10,1987,88000.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 600,MERCEDES-BENZ CL 600,Black,Coupé,Zuzwil,Hinterradantrieb,11,2003,41100.0,Km,car,"",null,null,null,null,null
+Daimler,V8,DAIMLER V8 4.0,Black,Limousine,Zuzwil,Hinterradantrieb,5,1998,100.0,Km,car,"",null,null,null,null,null
+BMW,530,BMW 530i Touring,Black,Kombi,Zuzwil,Hinterradantrieb,5,2001,120900.0,Km,car,"",null,null,null,null,null
+BMW,528,BMW 528i Touring,Black,Kombi,Zuzwil,Hinterradantrieb,4,1997,38000.0,Km,car,"",null,null,null,null,null
+Ferrari,456,FERRARI 456M GTA,Black,Coupé,Zuzwil,Hinterradantrieb,12,1999,18200.0,Km,car,"",null,null,null,null,null
+Bentley,CONTINENTAL,BENTLEY Continental R Coupé,Black,Coupé,Zuzwil,Hinterradantrieb,1,1994,60000.0,Km,car,"",null,null,null,null,null
+Lamborghini,MURCIÉLAGO,LAMBORGHINI Murciélago LP640-4 Cpé,Blue,Coupé,Zuzwil,Allrad,3,2007,33000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Black,Cabriolet,Zuzwil,Hinterradantrieb,2,1992,129700.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT ALPINE V6,Black,Coupé,Zuzwil,null,8,1983,128500.0,Km,car,"",null,null,null,null,null
+Ford,SIERRA,FORD Sierra 2.0i Cosworth 4x4,Black,Limousine,Zuzwil,Allrad,9,1990,164400.0,Km,car,"",null,null,null,null,null
+Audi,RS4,AUDI RS4 Avant 4.2 V8 quattro,Black,Kombi,Zuzwil,Allrad,8,2006,117400.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera Jubilé 40,Black,Coupé,Zuzwil,Hinterradantrieb,3,2004,61400.0,Km,car,"",null,null,null,null,null
+VW,PHAETON,VW Phaeton 6.0 W12 4Motion,Black,Limousine,Zuzwil,Allrad,11,2002,15900.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 320,MERCEDES-BENZ SL 320,Black,Cabriolet,Zuzwil,Hinterradantrieb,1,1999,70900.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GT3 RS,Black,Coupé,Sursee,Hinterradantrieb,11,2011,6300.0,Km,car,"",null,null,null,null,null
+Mercedes,E 63 AMG,MERCEDES-BENZ E 63 AMG,Black,Limousine,Zuzwil,Hinterradantrieb,3,2010,7400.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera 4,Black,Coupé,Zuzwil,Allrad,5,1999,77800.0,Km,car,"",null,null,null,null,null
+Audi,RS4,AUDI RS4 Avant quattro,Blue,Kombi,Zuzwil,Allrad,3,2001,50000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Black,Cabriolet,Zuzwil,Hinterradantrieb,9,1995,75200.0,Km,car,"",null,null,null,null,null
+BMW,540,BMW 540i,Black,Limousine,Zuzwil,Hinterradantrieb,11,1998,93000.0,Km,car,"",null,null,null,null,null
+Trabant,"",TRABANT 1300S Trabusa,Black,Limousine,Zuzwil,Hinterradantrieb,1,2009,999.0,Km,car,"",null,null,null,null,null
+Other,LEON,SEAT Leon 2.0 TSI FR,Black,Limousine,Zuzwil,Vorderradantrieb,1,2009,53300.0,Km,car,"",null,null,null,null,null
+Jaguar,E,JAGUAR E E-Type III,Black,Cabriolet,Zuzwil,Hinterradantrieb,3,1974,49200.0,Km,car,"",null,null,null,null,null
+Lamborghini,AVENTADOR,LAMBORGHINI Aventador LP700-4 Rds,Black,Cabriolet,Zuzwil,Allrad,3,2015,90.0,Km,car,"",null,null,null,null,null
+Mercedes,S 55 AMG,MERCEDES-BENZ S 55 AMG,Black,Limousine,Zuzwil,Hinterradantrieb,3,2003,121900.0,Km,car,"",null,null,null,null,null
+BMW,X5,BMW X5 4.4i,Black,SUV / Geländewagen,Zuzwil,Allrad,12,2000,3600.0,Km,car,"",null,null,null,null,null
+Maserati,QUATTROPORTE,MASERATI Quattroporte 4.2,Black,Limousine,Zuzwil,Hinterradantrieb,7,2004,56600.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Black,Kombi,Zuzwil,Allrad,10,2003,40900.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT Alpine A310 V6,Blue,Coupé,Zuzwil,Hinterradantrieb,4,1980,108000.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Black,Kombi,Zuzwil,Allrad,3,2009,29500.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Black,SUV / Geländewagen,Zuzwil,Allrad,8,2003,114000.0,Km,car,"",null,null,null,null,null
+BMW,760,BMW 760i L,Black,Limousine,Zuzwil,Hinterradantrieb,1,2003,94500.0,Km,car,"",null,null,null,null,null
+Mercedes,B 200,MERCEDES-BENZ B 200 T Sailing Edition,Black,Kompaktvan / Minivan,Zuzwil,Vorderradantrieb,8,2006,60500.0,Km,car,"",null,null,null,null,null
+Maserati,QUATTROPORTE,MASERATI Quattroporte 4.2,Black,Limousine,Zuzwil,Hinterradantrieb,12,2006,9800.0,Km,car,"",null,null,null,null,null
+BMW,335,BMW 335i,Black,Cabriolet,Zuzwil,Hinterradantrieb,7,2007,77500.0,Km,car,"",null,null,null,null,null
+Mercedes,SLK 55 AMG,MERCEDES-BENZ SLK 55 AMG,Black,Cabriolet,Zuzwil,Hinterradantrieb,4,2005,42500.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Black,SUV / Geländewagen,Zuzwil,Allrad,10,2005,64500.0,Km,car,"",null,null,null,null,null
+Bentley,ARNAGE,BENTLEY Arnage Red Label,Black,Limousine,Zuzwil,Hinterradantrieb,2,2000,111600.0,Km,car,"",null,null,null,null,null
+Audi,TT,AUDI TTS Cpé 2.0 TFSI quattro,Black,Coupé,Zuzwil,Allrad,8,2008,29300.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Blue,Cabriolet,Zuzwil,Hinterradantrieb,6,2003,77700.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 600,MERCEDES-BENZ CL 600,Black,Coupé,Zuzwil,Hinterradantrieb,6,2000,103800.0,Km,car,"",null,null,null,null,null
+Renault,R5,RENAULT R5 1400 Alpine Turbo,Black,Kleinwagen,Zuzwil,Vorderradantrieb,12,1983,159700.0,Km,car,"",null,null,null,null,null
+Mercedes,ML 500,MERCEDES-BENZ ML 500,Black,SUV / Geländewagen,Zuzwil,Allrad,2,2002,118000.0,Km,car,"",null,null,null,null,null
+Ford,CAPRI,FORD CAPRI RS 2600,Black,Coupé,Zuzwil,Hinterradantrieb,3,1973,36100.0,Km,car,"",null,null,null,null,null
+Mercedes,E 50 AMG,MERCEDES-BENZ E 50 AMG Avantgarde,Black,Limousine,Zuzwil,Hinterradantrieb,3,1997,70700.0,Km,car,"",null,null,null,null,null
+BMW,M5,BMW M5,Black,Limousine,Zuzwil,Hinterradantrieb,5,2005,21700.0,Km,car,"",null,null,null,null,null
+Alpina,5 SERIES,BMW-ALPINA B10 4.6 S.Tronic,Black,Limousine,Zuzwil,Hinterradantrieb,10,1998,94400.0,Km,car,"",null,null,null,null,null
+Ford,ESCORT,FORD Escort 2.0i RS Cosworth,Black,Limousine,Zuzwil,Allrad,4,1994,11000.0,Km,car,"",null,null,null,null,null
+Mercedes,E 55 AMG,MERCEDES-BENZ E 55 AMG Avantgarde,Black,Limousine,Zuzwil,Hinterradantrieb,2,1998,63400.0,Km,car,"",null,null,null,null,null
+BMW,2002,BMW 2002 Turbo,Black,Limousine,Zuzwil,Hinterradantrieb,7,1974,134000.0,Km,car,"",null,null,null,null,null
+BMW,750,BMW 750i,Blue,Limousine,Zuzwil,Hinterradantrieb,3,1998,60700.0,Km,car,"",null,null,null,null,null
+Maserati,QUATTROPORTE,MASERATI Quattroporte 4.2 Sport GT,Black,Limousine,Zuzwil,Hinterradantrieb,10,2006,24300.0,Km,car,"",null,null,null,null,null
+Mercedes,C 63 AMG,MERCEDES-BENZ C 63 AMG Avantgarde,Black,Kombi,Zuzwil,Hinterradantrieb,1,2009,57400.0,Km,car,"",null,null,null,null,null
+Bentley,BROOKLANDS,BENTLEY Brooklands,Black,Limousine,Zuzwil,Hinterradantrieb,12,1995,124900.0,Km,car,"",null,null,null,null,null
+Maserati,QUATTROPORTE,MASERATI Quattroporte 4.2 Sport GT,Black,Limousine,Zuzwil,Hinterradantrieb,4,2008,58900.0,Km,car,"",null,null,null,null,null
+Mercedes,E 63 AMG,MERCEDES-BENZ E 63 AMG,Black,Limousine,Zuzwil,Hinterradantrieb,6,2009,34500.0,Km,car,"",null,null,null,null,null
+Aston Martin,V8 Vantage,ASTON MARTIN V8 Vantage 4.3,Black,Coupé,Zuzwil,Hinterradantrieb,2,2007,35500.0,Km,car,"",null,null,null,null,null
+Alpina,5 SERIES,BMW-ALPINA B5 BiTurbo 4.4 V8,Black,Limousine,Zuzwil,Hinterradantrieb,6,2012,4950.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Black,SUV / Geländewagen,Zuzwil,Allrad,1,2011,39000.0,Km,car,"",null,null,null,null,null
+Jaguar,XK,JAGUAR XKR S/C,Black,Coupé,Zuzwil,Hinterradantrieb,5,1999,89666.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Black,Cabriolet,Zuzwil,Hinterradantrieb,3,2006,49000.0,Km,car,"",null,null,null,null,null
+Ford,MUSTANG,FORD (USA) Mustang Shelby GT500,Other,Coupé,Zuzwil,Hinterradantrieb,3,2012,92000.0,Km,car,"",null,null,null,null,null
+Lamborghini,DIABLO,LAMBORGHINI Diablo 5.7,Blue,Coupé,Porrentruy,Hinterradantrieb,4,1993,49500.0,Km,car,"",null,null,null,null,null
+Opel,FRONTERA,OPEL Frontera 3.2i V6 Limited,Black,SUV / Geländewagen,Zuzwil,Allrad,5,2001,153900.0,Km,car,"",null,null,null,null,null
+Aston Martin,V8 Vantage,ASTON MARTIN V8 Vantage 4.3,Black,Coupé,Zuzwil,Hinterradantrieb,7,2007,28800.0,Km,car,"",null,null,null,null,null
+Mercedes,SLK 55 AMG,MERCEDES-BENZ SLK 55 AMG Black Series,Black,Coupé,Zuzwil,Hinterradantrieb,10,2006,25000.0,Km,car,"",null,null,null,null,null
+Chevrolet,CORVETTE,CHEVROLET Corvette 5.7 LT1 Convert.,Black,Cabriolet,Zuzwil,Hinterradantrieb,7,1994,68200.0,Km,car,"",null,null,null,null,null
+Mercedes,300,MERCEDES-BENZ 300 SEL 3.5,Black,Limousine,Zuzwil,Hinterradantrieb,5,1971,145100.0,Km,car,"",null,null,null,null,null
+Alfa Romeo,SPIDER,ALFA ROMEO Spider 2.0,Black,Cabriolet,Zuzwil,Hinterradantrieb,4,1988,69300.0,Km,car,"",null,null,null,null,null
+Aston Martin,V8 Vantage,ASTON MARTIN V8 Vantage 4.3,Black,Coupé,Zuzwil,Hinterradantrieb,1,2006,92500.0,Km,car,"",null,null,null,null,null
+Mercedes,SLK 230,MERCEDES-BENZ SLK 230 Kompressor,Black,Cabriolet,Zuzwil,Hinterradantrieb,5,2002,38700.0,Km,car,"",null,null,null,null,null
+Saab,9-3,SAAB 9-3 2.0i-16 TS Aero,Black,Limousine,Zuzwil,Vorderradantrieb,9,2001,134600.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera Cabrio,Black,Cabriolet,Zuzwil,Hinterradantrieb,8,1996,81900.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Blue,Cabriolet,Zuzwil,Hinterradantrieb,2,2003,59300.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Black,Kombi,Zuzwil,Allrad,2,2003,43800.0,Km,car,"",null,null,null,null,null
+Lotus,EUROPA,LOTUS EUROPA,Black,Coupé,Zuzwil,Hinterradantrieb,3,1969,62200.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 500,MERCEDES-BENZ CL 500,Black,Coupé,Zuzwil,Hinterradantrieb,1,2001,27800.0,Km,car,"",null,null,null,null,null
+BMW,M5,BMW M5,Black,Limousine,Zuzwil,Hinterradantrieb,1,2000,171000.0,Km,car,"",null,null,null,null,null
+VW,PHAETON,VW Phaeton 6.0 W12 4Motion,Black,Limousine,Zuzwil,Allrad,10,2002,50400.0,Km,car,"",null,null,null,null,null
+Lamborghini,DIABLO,LAMBORGHINI Diablo 5.7,Black,Coupé,Zuzwil,Hinterradantrieb,12,2000,20600.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Black,Cabriolet,Zuzwil,Hinterradantrieb,9,1992,52500.0,Km,car,"",null,null,null,null,null
+Opel,MANTA,OPEL MANTA 400 Breitbau,Black,Coupé,Zuzwil,Hinterradantrieb,7,1982,60990.0,Km,car,"",null,null,null,null,null
+BMW,750,BMW 750i xDrive,Black,Limousine,Zuzwil,Allrad,10,2009,45000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GT2,Black,Coupé,Zuzwil,Hinterradantrieb,3,2004,54100.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GT2,Blue,Coupé,Zuzwil,Hinterradantrieb,12,2002,61300.0,Km,car,"",null,null,null,null,null
+Opel,VECTRA,OPEL Vectra 2.8 T V6 Cosmo,Black,Limousine,Zuzwil,Vorderradantrieb,5,2006,90600.0,Km,car,"",null,null,null,null,null
+BMW,X5,BMW X5 4.4i,Black,SUV / Geländewagen,Zuzwil,Allrad,6,2001,79900.0,Km,car,"",null,null,null,null,null
+Mercedes,SL-CLASS,MERCEDES-BENZ 500 SL,Black,Cabriolet,Zuzwil,Hinterradantrieb,5,1985,97000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 500,MERCEDES-BENZ S 500,Black,Limousine,Zuzwil,Hinterradantrieb,11,2005,1500.0,Km,car,"",null,null,null,null,null
+Mercedes,CLS 500,MERCEDES-BENZ CLS 500,Black,Limousine,Zuzwil,Hinterradantrieb,1,2005,21300.0,Km,car,"",null,null,null,null,null
+Mercedes,G 63 AMG,MERCEDES-BENZ G 63 AMG,Black,SUV / Geländewagen,Zuzwil,Allrad,4,2013,28100.0,Km,car,"",null,null,null,null,null
+Mercedes,S 63 AMG,MERCEDES-BENZ S 63 AMG L,Black,Limousine,Zuzwil,Hinterradantrieb,8,2008,45600.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Targa,Black,Cabriolet,Zuzwil,Hinterradantrieb,5,1997,74000.0,Km,car,"",null,null,null,null,null
+Nissan,MURANO,NISSAN Murano 3.5 V6,Black,SUV / Geländewagen,Zuzwil,Allrad,10,2005,54500.0,Km,car,"",null,null,null,null,null
+Ferrari,F355,FERRARI F355 Berlinetta,Black,Coupé,Zuzwil,Hinterradantrieb,3,1998,32800.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Blue,Kombi,Zuzwil,Allrad,8,2002,75200.0,Km,car,"",null,null,null,null,null
+Lamborghini,GALLARDO,LAMBORGHINI Gallardo Superleggera,Black,Coupé,Zuzwil,Allrad,6,2007,42000.0,Km,car,"",null,null,null,null,null
+Audi,R8,AUDI R8 Coupé 4.2,Black,Coupé,Zuzwil,Allrad,10,2007,500.0,Km,car,"",null,null,null,null,null
+Bentley,CONTINENTAL,BENTLEY Continental Supersports Conv.,Black,Cabriolet,Zuzwil,Allrad,1,2011,20000.0,Km,car,"",null,null,null,null,null
+BMW,M6,BMW M6,Black,Coupé,Zuzwil,Hinterradantrieb,4,2005,58300.0,Km,car,"",null,null,null,null,null
+Toyota,CELICA,TOYOTA Celica 2800 i Supra,Black,Coupé,Zuzwil,Hinterradantrieb,3,1983,54100.0,Km,car,"",null,null,null,null,null
+BMW,323,BMW 323Ci,Black,Cabriolet,Zuzwil,Hinterradantrieb,6,2000,228000.0,Km,car,"",null,null,null,null,null
+Audi,A4,AUDI A4 Avant 3.0 V6 quattro,Black,Kombi,Zuzwil,Allrad,7,2004,66100.0,Km,car,"",null,null,null,null,null
+Mercedes,CLS 500,MERCEDES-BENZ CLS 500,Black,Limousine,Zuzwil,Hinterradantrieb,3,2005,66100.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Black,Cabriolet,Zuzwil,Hinterradantrieb,1,1995,56500.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Black,Cabriolet,Zuzwil,Hinterradantrieb,4,2003,70000.0,Km,car,"",null,null,null,null,null
+Hummer,H3,HUMMER H3 3.5 Luxury,Blue,SUV / Geländewagen,Zuzwil,Allrad,1,2006,127700.0,Km,car,"",null,null,null,null,null
+Bentley,CONTINENTAL,BENTLEY Continental GTC 6.0,Black,Cabriolet,Zuzwil,Allrad,7,2007,50900.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Black,Kombi,Zuzwil,Allrad,5,2008,38500.0,Km,car,"",null,null,null,null,null
+BMW,740,BMW 740i,Black,Limousine,Zuzwil,Hinterradantrieb,7,1995,65400.0,Km,car,"",null,null,null,null,null
+BMW,330,BMW 330Ci,Black,Coupé,Zuzwil,Hinterradantrieb,3,2001,79500.0,Km,car,"",null,null,null,null,null
+MG,METRO,MG METRO 6R4 Gruppe B,Black,Coupé,Zuzwil,Allrad,2,1986,2500.0,Km,car,"",null,null,null,null,null
+BMW,535,BMW 535i,Black,Limousine,Zuzwil,Hinterradantrieb,6,1996,86100.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Black,Cabriolet,Zuzwil,Hinterradantrieb,7,1990,23800.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Black,SUV / Geländewagen,Zuzwil,Allrad,11,2004,69500.0,Km,car,"",null,null,null,null,null
+BMW,M6,BMW M6,Black,Cabriolet,Zuzwil,Hinterradantrieb,4,2007,48000.0,Km,car,"",null,null,null,null,null
+Maserati,QUATTROPORTE,MASERATI Quattroporte 4.2,Black,Limousine,Zuzwil,Hinterradantrieb,10,2007,21500.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 600,MERCEDES-BENZ CL 600,Blue,Coupé,Zuzwil,Hinterradantrieb,12,2003,29500.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Black,Kombi,Zuzwil,Allrad,12,2004,2300.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Black,Cabriolet,Zuzwil,Hinterradantrieb,1,2008,29100.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera Cabrio,Black,Cabriolet,Zuzwil,Hinterradantrieb,12,1984,137700.0,Km,car,"",null,null,null,null,null
+Lamborghini,DIABLO,LAMBORGHINI Diablo 5.7 VT Roadster,Black,Cabriolet,Porrentruy,Allrad,5,1998,13960.0,Km,car,"",null,null,null,null,null
+Jeep,Grand Cherokee,JEEP Grand Cherokee 5.2 Ltd.,Black,SUV / Geländewagen,Zuzwil,Allrad,6,1997,61000.0,Km,car,"",null,null,null,null,null
+BMW,730,BMW 730d,Black,Limousine,Zuzwil,Hinterradantrieb,11,2007,62000.0,Km,car,"",null,null,null,null,null
+Mercedes,450,MERCEDES-BENZ 450 SLC,Black,Limousine,Zuzwil,null,8,1973,110200.0,Km,car,"",null,null,null,null,null
+Renault,Alpine A110,RENAULT Alpine A110 1300,Black,Coupé,Zuzwil,Hinterradantrieb,7,1973,85000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GT3,Black,Coupé,Zuzwil,Hinterradantrieb,8,1999,29800.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Black,Cabriolet,Zuzwil,Hinterradantrieb,5,2003,13900.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Blue,Kombi,Zuzwil,Allrad,3,2003,88600.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8 4.2 quattro,Black,Limousine,Zuzwil,Allrad,12,2002,44000.0,Km,car,"",null,null,null,null,null
+Yes!,"",YES! Roadster 3.2,Black,Cabriolet,Zuzwil,Hinterradantrieb,9,2007,9400.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera,Black,Coupé,Zuzwil,Hinterradantrieb,2,1984,108500.0,Km,car,"",null,null,null,null,null
+VW,PHAETON,VW Phaeton 6.0 W12 4Motion,Black,Limousine,Zuzwil,Allrad,11,2002,175000.0,Km,car,"",null,null,null,null,null
+Ferrari,F360,FERRARI F360 Modena Berlinetta,Black,Coupé,Zuzwil,Hinterradantrieb,10,1999,26200.0,Km,car,"",null,null,null,null,null
+Audi,S5,AUDI S5 Coupé 4.2 FSI quattro,Black,Coupé,Zuzwil,Allrad,5,2008,67700.0,Km,car,"",null,null,null,null,null
+Aston Martin,LAGONDA,ASTON MARTIN LAGONDA Shooting Brake,Black,Kombi,Safenwil,Hinterradantrieb,3,1987,39000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Black,Cabriolet,Zuzwil,Hinterradantrieb,11,2001,20500.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Black,Kombi,Zuzwil,Allrad,7,2002,91100.0,Km,car,"",null,null,null,null,null
+Lamborghini,AVENTADOR,LAMBORGHINI Aventador LP700-4 Rds,Black,Cabriolet,Porrentruy,Allrad,3,2014,1999.0,Km,car,"",null,null,null,null,null
+Porsche,924,PORSCHE 924 Turbo,Blue,Coupé,Zuzwil,Hinterradantrieb,9,1981,114000.0,Km,car,"",null,null,null,null,null
+Bentley,CONTINENTAL,BENTLEY Continental FlyingSpur6.0,Black,Limousine,Zuzwil,Allrad,2,2007,28000.0,Km,car,"",null,null,null,null,null
+Rolls-Royce,Silver Spirit,ROLLS-ROYCE Silver Spirit Mk. I,Black,Limousine,Zuzwil,Hinterradantrieb,4,1983,99300.0,Km,car,"",null,null,null,null,null
+McLaren,12C,McLAREN MP4-12C 3.8 V8,Black,Coupé,Zuzwil,Hinterradantrieb,6,2012,55.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Black,SUV / Geländewagen,Zuzwil,Allrad,4,2008,18200.0,Km,car,"",null,null,null,null,null
+Land Rover,RANGE ROVER SPORT,LAND ROVER Range Rover Sport 5.0 V8 SC,Black,SUV / Geländewagen,Zuzwil,Allrad,9,2010,15000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 500,MERCEDES-BENZ S 500,Black,Limousine,Zuzwil,Hinterradantrieb,10,1999,51000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Black,Cabriolet,Zuzwil,Hinterradantrieb,8,2002,34500.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8 3.7,Black,Limousine,Zuzwil,Vorderradantrieb,6,1999,19900.0,Km,car,"",null,null,null,null,null
+Mercedes,600-SERIES,MERCEDES-BENZ 611 DS,Black,Sattelschlepper,Zuzwil,Hinterradantrieb,4,1996,65400.0,Km,car,"",null,null,null,null,null
+Audi,RS4,AUDI RS4 Avant 4.2 FSI quattro,Black,Kombi,Zuzwil,Allrad,3,2013,34200.0,Km,car,"",null,null,null,null,null
+Renault,Alpine A110,RENAULT Alpine A110 1600 SX,Blue,Coupé,Zuzwil,Hinterradantrieb,7,1976,60000.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 63 AMG,MERCEDES-BENZ CL 63 AMG FAB DESIGN,Black,Coupé,Zuzwil,Hinterradantrieb,8,2008,35800.0,Km,car,"",null,null,null,null,null
+Audi,RS4,AUDI RS4 Avant quattro,Black,Kombi,Zuzwil,Allrad,2,2001,72600.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Black,Cabriolet,Zuzwil,Hinterradantrieb,4,2002,31200.0,Km,car,"",null,null,null,null,null
+Lotus,ESPRIT,LOTUS Esprit 3.5 V8 SE,Black,Coupé,Zuzwil,Hinterradantrieb,6,2002,150.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Black,SUV / Geländewagen,Zuzwil,Allrad,5,2008,16500.0,Km,car,"",null,null,null,null,null
+Renault,R12,RENAULT R12 Gordini,Black,Limousine,Zuzwil,null,4,1972,14873.0,Km,car,"",null,null,null,null,null
+Toyota,DYNA,TOYOTA DYNA Bergungsfahrzeug,Black,Pick-up,Zuzwil,null,1,1981,26900.0,Km,car,"",null,null,null,null,null
+Lamborghini,GALLARDO,LAMBORGHINI GallardoLP570-4CpéTecnica,Black,Coupé,St. Gallen,Allrad,9,2014,1700.0,Km,car,"",null,null,null,null,null
+VW,TOUAREG,VW Touareg R50 V10,Black,SUV / Geländewagen,Zuzwil,Allrad,4,2008,108500.0,Km,car,"",null,null,null,null,null
+Mercedes,SLK 200,MERCEDES-BENZ SLK 200 Kompressor,Black,Cabriolet,Zuzwil,Hinterradantrieb,10,2007,300.0,Km,car,"",null,null,null,null,null
+Bentley,ARNAGE,BENTLEY Arnage Green Label,Blue,Limousine,Zuzwil,Hinterradantrieb,2,1999,44600.0,Km,car,"",null,null,null,null,null
+Audi,S3,AUDI S3 quattro,Black,Limousine,Zuzwil,Allrad,3,2002,316200.0,Km,car,"",null,null,null,null,null
+Chrysler,VIPER,CHRYSLER Viper RT/10,Black,Cabriolet,Zuzwil,Hinterradantrieb,4,1996,20000.0,Km,car,"",null,null,null,null,null
+Mercedes,SLK 55 AMG,MERCEDES-BENZ SLK 55 AMG,Black,Cabriolet,Zuzwil,Hinterradantrieb,9,2012,19400.0,Km,car,"",null,null,null,null,null
+Bentley,CONTINENTAL,BENTLEY Continental GT 6.0,Black,Coupé,Zuzwil,Allrad,1,2005,84000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Black,Cabriolet,Zuzwil,Hinterradantrieb,7,1992,125600.0,Km,car,"",null,null,null,null,null
+Lotus,ELISE,LOTUS Elise,Black,Cabriolet,Zuzwil,Hinterradantrieb,6,2001,75100.0,Km,car,"",null,null,null,null,null
+Maserati,QUATTROPORTE,MASERATI Quattroporte 4.2,Black,Limousine,Zuzwil,Hinterradantrieb,5,2006,10600.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Black,Cabriolet,Zuzwil,Hinterradantrieb,9,1992,108100.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500 Edition,Black,Cabriolet,Zuzwil,Hinterradantrieb,4,2000,51000.0,Km,car,"",null,null,null,null,null
+Other,COUPÉ,HYUNDAI Coupé 2.7 24V FX,Black,Coupé,Zuzwil,Vorderradantrieb,4,2007,26900.0,Km,car,"",null,null,null,null,null
+Mercedes,CLS 500,MERCEDES-BENZ CLS 500,Other,Limousine,Zuzwil,Hinterradantrieb,11,2004,120900.0,Km,car,"",null,null,null,null,null
+Opel,SPEEDSTER,OPEL Speedster 2.2 16V,Blue,Cabriolet,Zuzwil,Hinterradantrieb,6,2004,9000.0,Km,car,"",null,null,null,null,null
+Mercedes,ML 430,MERCEDES-BENZ ML 430,Black,SUV / Geländewagen,Zuzwil,Allrad,4,2001,16000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 65 AMG,MERCEDES-BENZ SL 65 AMG,Black,Cabriolet,Zuzwil,Hinterradantrieb,3,2005,15300.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GT3,Black,Coupé,Zuzwil,Hinterradantrieb,7,2014,100.0,Km,car,"",null,null,null,null,null
+Nissan,Skyline,NISSAN Skyline Rennwagen,Black,Coupé,Zuzwil,Allrad,1,2002,15000.0,Km,car,"",null,null,null,null,null
+Bentley,CONTINENTAL,BENTLEY Continental GT Speed 6.0,Black,Coupé,Zuzwil,Allrad,5,2008,36900.0,Km,car,"",null,null,null,null,null
+Mercedes,ML 500,MERCEDES-BENZ ML 500 4Matic,Black,SUV / Geländewagen,Zuzwil,Allrad,3,2007,1.0,Km,car,"",null,null,null,null,null
+Ferrari,575M,FERRARI 575M,Black,Coupé,Zuzwil,Hinterradantrieb,1,2003,23100.0,Km,car,"",null,null,null,null,null
+Mercedes,E 63 AMG,MERCEDES-BENZ E 63 AMG Avantgarde,Black,Limousine,Zuzwil,Hinterradantrieb,7,2007,39900.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 65 AMG,MERCEDES-BENZ CL 65 AMG,Black,Coupé,Zuzwil,Hinterradantrieb,2,2004,48300.0,Km,car,"",null,null,null,null,null
+Bentley,CONTINENTAL,BENTLEY Continental GT 6.0,Black,Coupé,Zuzwil,Allrad,5,2005,142000.0,Km,car,"",null,null,null,null,null
+Mercedes,SLR,MERCEDES-BENZ SLR McLaren Coupé,Blue,Coupé,Zuzwil,Hinterradantrieb,1,2005,26400.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Black,Coupé,Zuzwil,Hinterradantrieb,4,1994,41700.0,Km,car,"",null,null,null,null,null
+Audi,RS4,AUDI RS4 Cabriolet 4.2 quattro,Black,Cabriolet,Zuzwil,Allrad,6,2006,34650.0,Km,car,"",null,null,null,null,null
+Alfa Romeo,166,ALFA ROMEO 166 3.0 V6 24V Super,Black,Limousine,Zuzwil,Vorderradantrieb,2,1999,56400.0,Km,car,"",null,null,null,null,null
+Alpina,3 SERIES,BMW-ALPINA B3 3.2 Coupé S.Tronic,Black,Coupé,Zuzwil,Hinterradantrieb,2,1997,99400.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT Alpine A310 V6,Black,Coupé,Zuzwil,Hinterradantrieb,7,1978,222300.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Black,Coupé,Zuzwil,Allrad,6,2003,85200.0,Km,car,"",null,null,null,null,null
+BMW,540,BMW 540i,Black,Limousine,Zuzwil,Hinterradantrieb,7,1996,141000.0,Km,car,"",null,null,null,null,null
+Matra,"",MATRA SIMCA Bagheera Serie II,Black,Coupé,Zuzwil,Hinterradantrieb,2,1979,52000.0,Km,car,"",null,null,null,null,null
+Ferrari,456,FERRARI 456 GTA,Black,Coupé,Zuzwil,Hinterradantrieb,12,1996,52800.0,Km,car,"",null,null,null,null,null
+Lamborghini,MURCIÉLAGO,LAMBORGHINI Murciélago 6.2 Coupé,Black,Coupé,Zuzwil,Allrad,6,2003,13500.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Blue,Coupé,Zuzwil,Allrad,11,2001,62900.0,Km,car,"",null,null,null,null,null
+Renault,Alpine A110,RENAULT Alpine A110 1600 SC,Black,Coupé,Zuzwil,null,8,1973,40700.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Black,Coupé,Zuzwil,Allrad,1,2001,59500.0,Km,car,"",null,null,null,null,null
+BMW,523,BMW 523i Touring,Black,Kombi,Zuzwil,Hinterradantrieb,9,1997,112300.0,Km,car,"",null,null,null,null,null
+Ferrari,F430,FERRARI F430 Challenge GT3 LOOK,Black,Coupé,Zuzwil,Hinterradantrieb,6,2008,5000.0,Km,car,"",null,null,null,null,null
+BMW,740,BMW 740i,Black,Limousine,Zuzwil,Hinterradantrieb,12,1996,65000.0,Km,car,"",null,null,null,null,null
+BMW,M6,BMW M6,Black,Coupé,Zuzwil,Hinterradantrieb,10,2012,29600.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo Cabrio,Black,Cabriolet,Zuzwil,Allrad,4,2008,35500.0,Km,car,"",null,null,null,null,null
+BMW,550,BMW 550i Touring,Black,Kombi,Zuzwil,Hinterradantrieb,4,2007,72000.0,Km,car,"",null,null,null,null,null
+Bentley,ARNAGE,BENTLEY Arnage Red Label,Black,Limousine,Zuzwil,Hinterradantrieb,7,2001,21700.0,Km,car,"",null,null,null,null,null
+Jeep,Grand Cherokee,JEEP Grand Cherokee 4.0 Ltd.,Black,SUV / Geländewagen,Zuzwil,Allrad,12,1996,126200.0,Km,car,"",null,null,null,null,null
+Jaguar,XJ,JAGUAR XJ8 4.2 V8 Sovereign,Blue,Limousine,Zuzwil,Hinterradantrieb,11,2007,74000.0,Km,car,"",null,null,null,null,null
+Rolls-Royce,CORNICHE,ROLLS-ROYCE CORNICHE III,Black,Cabriolet,Zuzwil,Hinterradantrieb,6,1990,47100.0,Km,car,"",null,null,null,null,null
+Mercedes,SLS 63,MERCEDES-BENZ SLS 63 AMG,Black,Coupé,Zuzwil,Hinterradantrieb,7,2011,23000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 320,MERCEDES-BENZ SL 320,Black,Cabriolet,Zuzwil,Hinterradantrieb,4,2000,8900.0,Km,car,"",null,null,null,null,null
+Other,Ram,DODGE Ram SRT-10,Black,Pick-up,Zuzwil,Hinterradantrieb,3,2006,41000.0,Km,car,"",null,null,null,null,null
+Audi,RS4,AUDI RS4 Avant quattro,Black,Kombi,Zuzwil,Allrad,11,2000,51800.0,Km,car,"",null,null,null,null,null
+BMW,X5,BMW X5 4.6is,Black,SUV / Geländewagen,Zuzwil,Allrad,6,2003,21800.0,Km,car,"",null,null,null,null,null
+Lamborghini,DIABLO,LAMBORGHINI Diablo 5.7 SV,Black,Coupé,Porrentruy,Hinterradantrieb,7,1999,45700.0,Km,car,"",null,null,null,null,null
+Fiat,SPIDER,FIAT SPIDER CSA,Black,Coupé,Zuzwil,Hinterradantrieb,7,1978,115100.0,Km,car,"",null,null,null,null,null
+BMW,M5,BMW M5,Black,Limousine,Zuzwil,Hinterradantrieb,1,2012,12000.0,Km,car,"",null,null,null,null,null
+Bentley,CONTINENTAL,BENTLEY Continental GTC 6.0,Black,Cabriolet,Zuzwil,Allrad,6,2009,76200.0,Km,car,"",null,null,null,null,null
+Lamborghini,DIABLO,LAMBORGHINI Diablo 5.7,Blue,Coupé,Zuzwil,Hinterradantrieb,3,1993,26800.0,Km,car,"",null,null,null,null,null
+Mercedes,"",MERCEDES-BENZ CLK DTM AMG Cabriolet,Black,Cabriolet,Zuzwil,null,6,2008,500.0,Km,car,"",null,null,null,null,null
+Mercedes,S 63 AMG,MERCEDES-BENZ S 63 AMG,Black,Limousine,Zuzwil,Hinterradantrieb,6,2010,13200.0,Km,car,"",null,null,null,null,null
+Maserati,GRANTURISMO,MASERATI GranTurismo S,Black,Coupé,Zuzwil,Hinterradantrieb,7,2009,45000.0,Km,car,"",null,null,null,null,null
+Lamborghini,MURCIÉLAGO,LAMBORGHINI Murciélago LP670-4 SV Cpé,Black,Coupé,Zuzwil,Allrad,7,2009,9500.0,Km,car,"",null,null,null,null,null
+Jaguar,XK,JAGUAR XKR S/C Convertible,Black,Cabriolet,Zuzwil,Hinterradantrieb,4,2000,107100.0,Km,car,"",null,null,null,null,null
+Lamborghini,GALLARDO,LAMBORGHINI Gallardo 5.0 V10 Coupé,Black,Coupé,Zuzwil,Allrad,7,2004,36700.0,Km,car,"",null,null,null,null,null
+Mercedes,"",MERCEDES-BENZ CL 5.8 BRABUS,Black,Coupé,Zuzwil,Hinterradantrieb,1,2000,33000.0,Km,car,"",null,null,null,null,null
+BMW,X5,BMW X5 4.6is,Black,SUV / Geländewagen,Zuzwil,Allrad,8,2002,32900.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 65 AMG,MERCEDES-BENZ SL 65 AMG,Black,Cabriolet,Zuzwil,Hinterradantrieb,9,2004,33613.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 4.0 TFSI V8 qu,Black,Kombi,Zuzwil,Allrad,3,2013,6000.0,Km,car,"",null,null,null,null,null
+Alfa Romeo,GTV,ALFA ROMEO GTV 6 2.5,Blue,Coupé,Zuzwil,Hinterradantrieb,8,1984,75000.0,Km,car,"",null,null,null,null,null
+Land Rover,RANGE ROVER,LAND ROVER Range Rover 4.6 HSE,Black,SUV / Geländewagen,Zuzwil,Allrad,12,1995,46500.0,Km,car,"",null,null,null,null,null
+Bentley,ARNAGE,BENTLEY Arnage T,Black,Limousine,Zuzwil,Hinterradantrieb,6,2002,36000.0,Km,car,"",null,null,null,null,null
+Mercedes,C 43 AMG,MERCEDES-BENZ C 43 AMG Sport,Black,Kombi,Zuzwil,Hinterradantrieb,1,1998,64100.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Black,Kombi,Zuzwil,Allrad,1,2003,59000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera,Black,Coupé,Zuzwil,Hinterradantrieb,5,1998,26000.0,Km,car,"",null,null,null,null,null
+Fiat,131,FIAT 131 Racing / Sport,Black,Limousine,Zuzwil,null,5,1980,80000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera 4S Cabrio,Black,Cabriolet,Zuzwil,Allrad,5,2006,30600.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Black,Cabriolet,Zuzwil,Hinterradantrieb,1,2003,32500.0,Km,car,"",null,null,null,null,null
+Renault,Alpine A110,RENAULT Alpine A110 Modell 1400 FASA,Black,Coupé,Zuzwil,Hinterradantrieb,7,1978,90000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GTR (GT3),Black,Coupé,Zuzwil,Hinterradantrieb,4,2001,16300.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera Cabrio,Blue,Cabriolet,Zuzwil,Hinterradantrieb,1,1996,78000.0,Km,car,"",null,null,null,null,null
+Ferrari,F360,FERRARI F360 Challenge stradale,Black,Coupé,Zuzwil,Hinterradantrieb,3,2004,27650.0,Km,car,"",null,null,null,null,null
+Mercedes,CLS 55 AMG,MERCEDES-BENZ CLS 55 AMG,Black,Limousine,Zuzwil,Hinterradantrieb,6,2005,77000.0,Km,car,"",null,null,null,null,null
+Mercedes,E 240,MERCEDES-BENZ E 240 Elégance,Black,Limousine,Zuzwil,Hinterradantrieb,4,2003,89200.0,Km,car,"",null,null,null,null,null
+BMW,323,BMW 323 E21,Black,Coupé,Zuzwil,null,9,1982,64700.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera 4 S Cabrio,Black,Cabriolet,Zuzwil,Allrad,3,2004,75600.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo Cabrio,Black,Cabriolet,Zuzwil,Allrad,9,2007,46500.0,Km,car,"",null,null,null,null,null
+Land Rover,RANGE ROVER,LAND ROVER Range Rover 4.6 HSE,Black,SUV / Geländewagen,Zuzwil,Allrad,11,1995,70400.0,Km,car,"",null,null,null,null,null
+Mercedes,SLK 32 AMG,MERCEDES-BENZ SLK 32 AMG,Black,Cabriolet,Zuzwil,Hinterradantrieb,8,2003,123400.0,Km,car,"",null,null,null,null,null
+Alpina,5 SERIES,BMW-ALPINA B5 BiTurbo 4.4 V8,Black,Limousine,Zuzwil,Hinterradantrieb,5,2012,19100.0,Km,car,"",null,null,null,null,null
+Lamborghini,DIABLO,LAMBORGHINI Diablo 5.7,Black,Coupé,Zuzwil,Hinterradantrieb,4,1997,55000.0,Km,car,"",null,null,null,null,null
+Porsche,PANAMERA,PORSCHE Panamera Turbo 4.8,Blue,Limousine,Zuzwil,Allrad,1,2010,26800.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Black,Kombi,Zuzwil,Allrad,7,2002,21400.0,Km,car,"",null,null,null,null,null
+BMW,320,BMW 320d Touring,Black,Kombi,Zuzwil,Hinterradantrieb,8,2007,162000.0,Km,car,"",null,null,null,null,null
+BMW,2002,BMW 2002 Turbo,Black,Limousine,Zuzwil,Hinterradantrieb,7,1974,82600.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT Alpine A310 V6,Black,Coupé,Zuzwil,Hinterradantrieb,9,1983,111990.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Black,Cabriolet,Zuzwil,Hinterradantrieb,2,1998,30400.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera,Black,Coupé,Zuzwil,Hinterradantrieb,9,2000,77600.0,Km,car,"",null,null,null,null,null
+BMW,X5,BMW X5 4.6is,Black,SUV / Geländewagen,Zuzwil,Allrad,2,2002,23800.0,Km,car,"",null,null,null,null,null
+BMW,M5,BMW M5,Black,Limousine,Zuzwil,Hinterradantrieb,3,2013,4600.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Black,Kombi,Zuzwil,Allrad,11,2008,48200.0,Km,car,"",null,null,null,null,null
+Maserati,COUPÉ GT,MASERATI Coupé GT,Black,Coupé,Zuzwil,Hinterradantrieb,10,2002,23200.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 63 AMG,MERCEDES-BENZ SL 63 AMG,Blue,Cabriolet,Zuzwil,Hinterradantrieb,3,2012,19999.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Black,Kombi,Zuzwil,Allrad,6,2003,41100.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Black,Cabriolet,Zuzwil,Hinterradantrieb,2,2003,45200.0,Km,car,"",null,null,null,null,null
+Mercedes,S 350,MERCEDES-BENZ S 350 L 4Matic,Black,Limousine,Zuzwil,Allrad,1,2010,110800.0,Km,car,"",null,null,null,null,null
+Audi,A4,AUDI A4 Avant 3.0 V6,Black,Kombi,Zuzwil,Vorderradantrieb,8,2002,101900.0,Km,car,"",null,null,null,null,null
+VW,TOURAN,VW Touran 1.4 TSI Trend,Black,Kompaktvan / Minivan,Zuzwil,Vorderradantrieb,3,2008,71700.0,Km,car,"",null,null,null,null,null
+Mercedes,S 600,MERCEDES-BENZ S 600 L,Black,Limousine,Zuzwil,Hinterradantrieb,1,1996,125000.0,Km,car,"",null,null,null,null,null
+BMW,3.0,BMW 3.0 CSL,Black,Limousine,Zuzwil,null,1,1973,129800.0,Km,car,"",null,null,null,null,null
+Ferrari,612,FERRARI 612,Black,Coupé,Zuzwil,Hinterradantrieb,4,2005,36000.0,Km,car,"",null,null,null,null,null
+Mercedes,G 55 AMG,MERCEDES-BENZ G 55 AMG,Black,SUV / Geländewagen,Zuzwil,Allrad,1,2008,49600.0,Km,car,"",null,null,null,null,null
+Other,"",KAISER CJ-5 12V ARMEEFAHRZEUG,Black,SUV / Geländewagen,Zuzwil,Allrad,9,1966,18000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Blue,Cabriolet,Zuzwil,Hinterradantrieb,3,1993,37000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 320,MERCEDES-BENZ S 320,Black,Limousine,Zuzwil,Hinterradantrieb,3,1999,73700.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Black,Cabriolet,Zuzwil,Hinterradantrieb,8,1997,39800.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Black,Cabriolet,Zuzwil,Hinterradantrieb,4,2007,47900.0,Km,car,"",null,null,null,null,null
+Lotus,"",LOTUS HKT Seven GTS,Black,Cabriolet,Zuzwil,Hinterradantrieb,5,2005,16000.0,Km,car,"",null,null,null,null,null
+Talbot Lago,"",TALBOT Sunbeam Lotus,Black,Coupé,Zuzwil,Hinterradantrieb,3,1982,40100.0,Km,car,"",null,null,null,null,null
+Saab,9-5,SAAB 9-5 2.3T Aero,Black,Kombi,Zuzwil,Vorderradantrieb,7,2002,117100.0,Km,car,"",null,null,null,null,null
+Audi,R8,AUDI R8 Coupé 5.2,Black,Coupé,Zuzwil,Allrad,7,2009,26500.0,Km,car,"",null,null,null,null,null
+Lincoln,Continental,LINCOLN Continental,Black,Limousine,Zuzwil,Vorderradantrieb,2,2002,119600.0,Km,car,"",null,null,null,null,null
+Maserati,GHIBLI,MASERATI Ghibli 2.8 GT,Black,Coupé,Zuzwil,Hinterradantrieb,3,1996,40600.0,Km,car,"",null,null,null,null,null
+Mercedes,S 500,MERCEDES-BENZ S 500 L,Black,Limousine,Zuzwil,Hinterradantrieb,5,2000,74500.0,Km,car,"",null,null,null,null,null
+Aston Martin,DB9,ASTON MARTIN DB9 Volante,Other,Cabriolet,Zuzwil,Hinterradantrieb,11,2005,31800.0,Km,car,"",null,null,null,null,null
+Lancio,DELTA,LANCIA DELTA Integrale EVO,Blue,Limousine,Zuzwil,Allrad,2,1995,68000.0,Km,car,"",null,null,null,null,null
+BMW,525,BMW 525i,Black,Limousine,Zuzwil,Hinterradantrieb,2,2002,125900.0,Km,car,"",null,null,null,null,null
+BMW,M6,BMW M6,Black,Cabriolet,Zuzwil,Hinterradantrieb,6,2012,66800.0,Km,car,"",null,null,null,null,null
+Mercedes,CLK 63 AMG,MERCEDES-BENZ CLK 63 AMG Black Series,Black,Coupé,Zuzwil,Hinterradantrieb,6,2008,45000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo ll 3.6,Black,Coupé,Zuzwil,Hinterradantrieb,10,1993,128200.0,Km,car,"",null,null,null,null,null
+Mercedes,S 320,MERCEDES-BENZ S 320,Black,Limousine,Zuzwil,Hinterradantrieb,8,1997,58000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Black,Coupé,Zuzwil,Hinterradantrieb,3,1984,63500.0,Km,car,"",null,null,null,null,null
+Honda,ACCORD,HONDA Accord Coupé V6 3.0i VTEC,Black,Coupé,Zuzwil,Vorderradantrieb,7,1998,186000.0,Km,car,"",null,null,null,null,null
+Audi,RS5,AUDI RS5 Coupé 4.2FSI quattro,Black,Coupé,Zuzwil,Allrad,1,2011,31750.0,Km,car,"",null,null,null,null,null
+Ferrari,458,FERRARI 458 Italia 4.5 V8,Black,Coupé,Zuzwil,Hinterradantrieb,10,2010,680.0,Km,car,"",null,null,null,null,null
+Rolls-Royce,Silver Spur,ROLLS-ROYCE Silver Spur,Black,Limousine,Zuzwil,Hinterradantrieb,9,1988,73800.0,Km,car,"",null,null,null,null,null
+Other,"",NSU TTS,Blue,Limousine,Zuzwil,null,7,1971,75000.0,Km,car,"",null,null,null,null,null
+Jaguar,XK,JAGUAR XKR 5.0 V8 SC,Black,Cabriolet,Zuzwil,Hinterradantrieb,3,2009,49500.0,Km,car,"",null,null,null,null,null
+BMW,535,BMW 535d xDrive,Black,Limousine,Zuzwil,Allrad,4,2012,82000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GT2,Black,Coupé,Zuzwil,Hinterradantrieb,5,2002,38200.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Black,Cabriolet,Zuzwil,Hinterradantrieb,5,2006,8000.0,Km,car,"",null,null,null,null,null
+Lamborghini,HURACAN,LAMBORGHINI Huracan LP610-4 Coupé,Black,Coupé,Zuzwil,Allrad,1,2016,2100.0,Km,car,"",null,null,null,null,null
+Mercedes,C 63 AMG,MERCEDES-BENZ C 63 AMG BLACK SERIES,Black,Coupé,Zuzwil,Hinterradantrieb,3,2012,500.0,Km,car,"",null,null,null,null,null
+BMW,740,BMW 740iL,Black,Limousine,Zuzwil,Hinterradantrieb,5,1999,18300.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GT3 CUP,Black,Coupé,Zuzwil,null,5,2000,7000.0,Km,car,"",null,null,null,null,null
+Ferrari,612,FERRARI 612,Black,Coupé,Zuzwil,Hinterradantrieb,7,2004,113800.0,Km,car,"",null,null,null,null,null
+BMW,328,BMW 328i A Cabrio,Black,Cabriolet,Zuzwil,Hinterradantrieb,8,1995,49900.0,Km,car,"",null,null,null,null,null
+Toyota,CELICA,TOYOTA CELICA 2000GT,Blue,Coupé,Zuzwil,Hinterradantrieb,11,1976,38700.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera 4,Black,Coupé,Zuzwil,Allrad,2,1995,134100.0,Km,car,"",null,null,null,null,null
+Lancio,DELTA,LANCIA Delta HF Integrale Evo 4V,Black,Limousine,Zuzwil,Allrad,12,1993,131000.0,Km,car,"",null,null,null,null,null
+Toyota,LAND CRUISER,TOYOTA LAND CRUISER BJ 40 LT,Black,SUV / Geländewagen,Zuzwil,Allrad,7,1979,240500.0,Km,car,"",null,null,null,null,null
+Maserati,COUPÉ GT,MASERATI Coupé GT,Black,Coupé,Zuzwil,Hinterradantrieb,9,2006,38900.0,Km,car,"",null,null,null,null,null
+Other,"",HARLEY-DAVIDSON HPU Hurricane TC,Black,"",Zuzwil,Hinterradantrieb,4,2006,100.0,Km,car,"",null,null,null,null,null
+Land Rover,RANGE ROVER,LAND ROVER Range Rover 4.6 HSE,Black,SUV / Geländewagen,Zuzwil,Allrad,11,1994,87000.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 65 AMG,MERCEDES-BENZ CL 65 AMG,Black,Coupé,Zuzwil,Hinterradantrieb,5,2008,43000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 600,MERCEDES-BENZ SL 600,Black,Cabriolet,Zuzwil,Hinterradantrieb,3,2004,96400.0,Km,car,"",null,null,null,null,null
+BMW,"",BMW 323 i E21,Black,Coupé,Zuzwil,Hinterradantrieb,5,1979,157400.0,Km,car,"",null,null,null,null,null
+Maserati,GRANTURISMO,MASERATI GranTurismo,Black,Coupé,Zuzwil,Hinterradantrieb,12,2009,8700.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 500,MERCEDES-BENZ CL 500,Blue,Coupé,Zuzwil,Hinterradantrieb,9,2006,15100.0,Km,car,"",null,null,null,null,null
+Smart,FORTWO,SMART Fortwo passion,Black,Cabriolet,Zuzwil,Hinterradantrieb,7,2003,165000.0,Km,car,"",null,null,null,null,null
+Audi,S6,AUDI S6 Avant quattro,Black,Kombi,Zuzwil,Allrad,10,2000,211000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Black,Coupé,Zuzwil,Allrad,10,2000,80000.0,Km,car,"",null,null,null,null,null
+Mercedes,R 500,MERCEDES-BENZ R 500 4Matic,Black,Kombi,Zuzwil,Allrad,1,2006,500.0,Km,car,"",null,null,null,null,null
+Rolls-Royce,CORNICHE,ROLLS-ROYCE CORNICHE Convertible,Black,Cabriolet,Basel,Hinterradantrieb,1,1982,70000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera 4,Silver,Coupé,Zuzwil,Allrad,4,1999,35100.0,Km,car,"",null,null,null,null,null
+Lancio,DELTA,LANCIA Delta HF Integrale Evo 4V,Silver,Limousine,Zuzwil,Allrad,1,1994,130300.0,Km,car,"",null,null,null,null,null
+Alfa Romeo,GT,ALFA ROMEO GT 1300 Junior,Silver,Limousine,Zuzwil,null,6,1972,79380.0,Km,car,"",null,null,null,null,null
+Ferrari,599,FERRARI 599 GTB HGTE,Silver,Coupé,Zuzwil,Hinterradantrieb,4,2010,28900.0,Km,car,"",null,null,null,null,null
+Ferrari,365,FERRARI 365 Daytona Plexiglas,Silver,Coupé,Sursee,null,9,1970,8000.0,Km,car,"",null,null,null,null,null
+Ferrari,F355,FERRARI F355 Berlinetta,Blue,Coupé,Zuzwil,Hinterradantrieb,5,1995,78000.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT Alpine A310 V6 VFA-2700 VAA,Silver,Coupé,Zuzwil,Hinterradantrieb,5,1984,78000.0,Km,car,"",null,null,null,null,null
+Mercedes,E 55 AMG,MERCEDES-BENZ E 55 AMG Avantgarde,Silver,Limousine,Zuzwil,Hinterradantrieb,2,2004,147400.0,Km,car,"",null,null,null,null,null
+Mercedes,C 280,MERCEDES-BENZ C 280 Elégance,Silver,Kombi,Zuzwil,Hinterradantrieb,6,1997,62500.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Silver,Kombi,Zuzwil,Allrad,2,2003,144200.0,Km,car,"",null,null,null,null,null
+Audi,S8,AUDI S8 4.2 quattro,Silver,Limousine,Zuzwil,Allrad,1,1998,57000.0,Km,car,"",null,null,null,null,null
+VW,TOUAREG,VW Touareg 5.0 TDI V10,Silver,SUV / Geländewagen,Zuzwil,Allrad,11,2003,117800.0,Km,car,"",null,null,null,null,null
+Nissan,200 SX,NISSAN 200 SX 1.8 16V Turbo,Silver,Coupé,Zuzwil,Hinterradantrieb,6,1990,162900.0,Km,car,"",null,null,null,null,null
+Ferrari,599,FERRARI 599 GTB,Silver,Coupé,Zuzwil,Hinterradantrieb,4,2008,26000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo II,Silver,Coupé,Zuzwil,Hinterradantrieb,8,1991,101300.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 65 AMG,MERCEDES-BENZ SL 65 AMG BLACK SERIES,Silver,Coupé,Zuzwil,Hinterradantrieb,7,2009,34000.0,Km,car,"",null,null,null,null,null
+BMW,M3,BMW M3,Blue,Cabriolet,Zuzwil,Hinterradantrieb,5,2002,49600.0,Km,car,"",null,null,null,null,null
+Audi,RS4,AUDI RS4 4.2 V8 quattro,Silver,Limousine,Zuzwil,Allrad,0,2011,1350.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 600,MERCEDES-BENZ CL 600,Silver,Coupé,Zuzwil,Hinterradantrieb,2,2000,75400.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GT3,Silver,Coupé,Zuzwil,Hinterradantrieb,10,1999,47900.0,Km,car,"",null,null,null,null,null
+VW,TOUAREG,VW Touareg 5.0 TDI V10,Silver,SUV / Geländewagen,Zuzwil,Allrad,9,2006,104500.0,Km,car,"",null,null,null,null,null
+Aston Martin,DB9,ASTON MARTIN DB9,Silver,Coupé,Zuzwil,Hinterradantrieb,1,2005,40800.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Silver,Cabriolet,Zuzwil,Hinterradantrieb,3,1994,111500.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 600,MERCEDES-BENZ CL 600,Silver,Coupé,Zuzwil,Hinterradantrieb,7,2003,22400.0,Km,car,"",null,null,null,null,null
+Ford,MUSTANG,FORD (USA) Mustang,Silver,Cabriolet,Sursee,Hinterradantrieb,3,1968,1000.0,Km,car,"",null,null,null,null,null
+Chevrolet,CORVETTE,CHEVROLET Corvette ZR1,Silver,Coupé,Zuzwil,Hinterradantrieb,7,2009,4000.0,Km,car,"",null,null,null,null,null
+Ferrari,F360,FERRARI F360 Spider,Silver,Cabriolet,Zuzwil,Hinterradantrieb,2,2003,55800.0,Km,car,"",null,null,null,null,null
+Other,CHARADE,DAIHATSU Charade 1.0 Turbo,Blue,Kleinwagen,Zuzwil,Vorderradantrieb,9,1985,61800.0,Km,car,"",null,null,null,null,null
+BMW,545,BMW 545i,Silver,Limousine,Zuzwil,Hinterradantrieb,9,2003,33600.0,Km,car,"",null,null,null,null,null
+Mercedes,C 240,MERCEDES-BENZ C 240 Elégance,Silver,Limousine,Zuzwil,Hinterradantrieb,7,2000,162900.0,Km,car,"",null,null,null,null,null
+Maserati,GRANSPORT,MASERATI Coupé GranSport,Silver,Coupé,Zuzwil,Hinterradantrieb,1,2005,38400.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 65 AMG,MERCEDES-BENZ SL 65 AMG,Silver,Cabriolet,Zuzwil,Hinterradantrieb,7,2008,24000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Silver,Coupé,Zuzwil,Allrad,2,2001,82100.0,Km,car,"",null,null,null,null,null
+Other,"",NSU TT,Silver,Limousine,Zuzwil,null,4,1972,82804.0,Km,car,"",null,null,null,null,null
+McLaren,12C,McLAREN MP4-12C Coupé 3.8 V8,Silver,Coupé,Zuzwil,Hinterradantrieb,3,2012,1200.0,Km,car,"",null,null,null,null,null
+BMW,735,BMW 735i,Silver,Limousine,Zuzwil,Hinterradantrieb,8,1999,33900.0,Km,car,"",null,null,null,null,null
+Mercedes,E 250,MERCEDES-BENZ E 250 CGI BlueEff Avgarde,Silver,Limousine,Zuzwil,Hinterradantrieb,6,2010,29800.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT Alpine A310 V6,Silver,Coupé,Zuzwil,Hinterradantrieb,10,1982,31000.0,Km,car,"",null,null,null,null,null
+Citroen,C5,CITROEN C5 3.0 V6 Exclusive,Blue,Limousine,Zuzwil,Vorderradantrieb,6,2001,83800.0,Km,car,"",null,null,null,null,null
+Toyota,COROLLA,TOYOTA Corolla 2.0 D4D L.Terra,Silver,Kombi,Zuzwil,Vorderradantrieb,6,2004,144000.0,Km,car,"",null,null,null,null,null
+Bentley,ARNAGE,BENTLEY Arnage Green Label,Silver,Limousine,Zuzwil,Hinterradantrieb,4,2000,42300.0,Km,car,"",null,null,null,null,null
+BMW,M6,BMW M6,Silver,Coupé,Zuzwil,Hinterradantrieb,7,2005,8500.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Silver,Coupé,Zuzwil,Allrad,12,2000,60500.0,Km,car,"",null,null,null,null,null
+Ferrari,575M,FERRARI 575M,Silver,Coupé,Zuzwil,Hinterradantrieb,3,2005,22500.0,Km,car,"",null,null,null,null,null
+BMW,X1,BMW X1 xDrive 25d Sport Line,Silver,SUV / Geländewagen,Zuzwil,Allrad,9,2012,39200.0,Km,car,"",null,null,null,null,null
+Mercedes,S 65 AMG,MERCEDES-BENZ S 65 L AMG 650PS,Silver,Limousine,Zuzwil,Hinterradantrieb,8,2004,61000.0,Km,car,"",null,null,null,null,null
+Ferrari,456,FERRARI 456M GT,Silver,Coupé,Zuzwil,Hinterradantrieb,3,2000,35000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 500,MERCEDES-BENZ S 500,Silver,Limousine,Zuzwil,Hinterradantrieb,2,2009,52000.0,Km,car,"",null,null,null,null,null
+VW,GOLF,VW Golf R32 4Motion,Silver,Limousine,Zuzwil,Allrad,2,2007,105800.0,Km,car,"",null,null,null,null,null
+Ford,CAPRI,FORD CAPRI RS 2600,Blue,Coupé,Zuzwil,Hinterradantrieb,5,1971,64600.0,Km,car,"",null,null,null,null,null
+Renault,SPORT SPIDER,RENAULT SPORT SPIDER Windschutzscheibe,Silver,Cabriolet,Zuzwil,Hinterradantrieb,9,2000,8000.0,Km,car,"",null,null,null,null,null
+Renault,R5,RENAULT R5 Alpine,Silver,Kleinwagen,Zuzwil,Vorderradantrieb,7,1981,147800.0,Km,car,"",null,null,null,null,null
+Mercedes,S 65 AMG,MERCEDES-BENZ S 65 AMG L,Silver,Limousine,Zuzwil,Hinterradantrieb,6,2008,56200.0,Km,car,"",null,null,null,null,null
+Renault,SPORT SPIDER,RENAULT Spider 2.0 16V TURBO,Silver,Cabriolet,Zuzwil,Hinterradantrieb,6,1997,23500.0,Km,car,"",null,null,null,null,null
+BMW,M6,BMW M6,Silver,Coupé,Zuzwil,Hinterradantrieb,11,2006,34500.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 500,MERCEDES-BENZ CL 500 Prime Edition,Silver,Coupé,Zuzwil,Hinterradantrieb,10,2006,72200.0,Km,car,"",null,null,null,null,null
+Land Rover,RANGE ROVER,LAND ROVER Range Rover 5.0 V8 SC,Silver,SUV / Geländewagen,Zuzwil,Allrad,10,2010,9000.0,Km,car,"",null,null,null,null,null
+BMW,M5,BMW M5,Silver,Limousine,Zuzwil,Hinterradantrieb,1,1999,68500.0,Km,car,"",null,null,null,null,null
+MG,"",MG M Roadster,Silver,Coupé,Zuzwil,Hinterradantrieb,6,1930,86000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 600,MERCEDES-BENZ S 600 L,Silver,Limousine,Zuzwil,Hinterradantrieb,1,2003,48100.0,Km,car,"",null,null,null,null,null
+Jaguar,S-TYPE,JAGUAR S-Type 4.0 V8,Blue,Limousine,Zuzwil,Hinterradantrieb,5,1999,69200.0,Km,car,"",null,null,null,null,null
+Fiat,SPIDER,FIAT 124 Spider CSA Abarth,Silver,Cabriolet,Zuzwil,null,7,1974,120000.0,Km,car,"",null,null,null,null,null
+Ferrari,F360,FERRARI F360 Spider,Silver,Cabriolet,Zuzwil,Hinterradantrieb,5,2001,41000.0,Km,car,"",null,null,null,null,null
+Alpina,5 SERIES,BMW-ALPINA 5 SERIES B7 (E28),Silver,Limousine,Zuzwil,Hinterradantrieb,7,1985,157000.0,Km,car,"",null,null,null,null,null
+Rolls-Royce,CORNICHE,ROLLS-ROYCE Corniche,Silver,Cabriolet,Zuzwil,Hinterradantrieb,7,2001,38000.0,Km,car,"",null,null,null,null,null
+Nissan,Skyline,NISSAN Skyline R34 GTR,Silver,Coupé,Zuzwil,Allrad,1,2007,2300.0,Km,car,"",null,null,null,null,null
+Audi,QUATTRO,AUDI quattro Turbo 20V,Silver,Coupé,Zuzwil,Allrad,1,1990,125000.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Silver,Kombi,Zuzwil,Allrad,6,2008,29300.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT Alpine A610 Turbo,Silver,Coupé,Zuzwil,Hinterradantrieb,6,1992,71600.0,Km,car,"",null,null,null,null,null
+Audi,R8,AUDI R8 GT Spyder 5.2,Silver,Cabriolet,Zuzwil,Allrad,6,2012,5900.0,Km,car,"",null,null,null,null,null
+Maserati,BITURBO,MASERATI Biturbo Spyder E,Silver,Cabriolet,Zuzwil,Hinterradantrieb,3,1995,39500.0,Km,car,"",null,null,null,null,null
+Lotus,ELISE,LOTUS Elise,Other,Cabriolet,Zuzwil,Hinterradantrieb,10,2003,38200.0,Km,car,"",null,null,null,null,null
+Mercedes,SLK 350,MERCEDES-BENZ SLK 350,Blue,Cabriolet,Zuzwil,Hinterradantrieb,5,2008,3200.0,Km,car,"",null,null,null,null,null
+Mercedes,CLK 320,MERCEDES-BENZ CLK 320 Sport,Silver,Coupé,Zuzwil,Hinterradantrieb,6,1998,61000.0,Km,car,"",null,null,null,null,null
+Citroen,2CV,CITROEN 2CV6 Charleston,Silver,Kleinwagen,Zuzwil,Vorderradantrieb,7,1986,80500.0,Km,car,"",null,null,null,null,null
+Mercedes,E 430,MERCEDES-BENZ E 430 Avantgarde,Silver,Limousine,Zuzwil,Hinterradantrieb,6,1998,48500.0,Km,car,"",null,null,null,null,null
+Renault,CLIO,RENAULT Clio 3.0 Sport V6,Silver,Kleinwagen,Zuzwil,Hinterradantrieb,11,2004,61200.0,Km,car,"",null,null,null,null,null
+Renault,ALPINE,RENAULT Alpine A310 V6,Silver,Coupé,Zuzwil,Hinterradantrieb,12,1981,139200.0,Km,car,"",null,null,null,null,null
+McLaren,12C,McLAREN MP4-12C Coupé 3.8 V8,Silver,Coupé,Zuzwil,Hinterradantrieb,4,2012,19900.0,Km,car,"",null,null,null,null,null
+Triumph,TR3,TRIUMPH TR3,Silver,Cabriolet,Safenwil,Hinterradantrieb,1,1957,98320.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 55 AMG,MERCEDES-BENZ CL 55 AMG,Silver,Coupé,Zuzwil,Hinterradantrieb,11,2002,48300.0,Km,car,"",null,null,null,null,null
+Mercedes,S 320,MERCEDES-BENZ S 320,Silver,Limousine,Zuzwil,Hinterradantrieb,3,2002,69100.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Silver,Cabriolet,Zuzwil,Hinterradantrieb,3,1994,111500.0,Km,car,"",null,null,null,null,null
+Bentley,CONTINENTAL,BENTLEY Continental FlyingSpur6.0,Blue,Limousine,Zuzwil,Allrad,5,2012,29000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Carrera Cabrio,Silver,Cabriolet,Zuzwil,Hinterradantrieb,2,2001,75400.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 GT3,Silver,Coupé,Zuzwil,Hinterradantrieb,3,2000,42500.0,Km,car,"",null,null,null,null,null
+BMW,535,BMW 535d,Silver,Limousine,Zuzwil,Hinterradantrieb,1,2006,29900.0,Km,car,"",null,null,null,null,null
+Rolls-Royce,CORNICHE,ROLLS-ROYCE Corniche,Silver,Cabriolet,Zuzwil,Hinterradantrieb,6,2002,42000.0,Km,car,"",null,null,null,null,null
+Aston Martin,DB7,ASTON MARTIN DB7 Vantage Volante,Silver,Cabriolet,Zuzwil,Hinterradantrieb,4,2004,29000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Silver,Cabriolet,Zuzwil,Hinterradantrieb,10,1996,29800.0,Km,car,"",null,null,null,null,null
+BMW,2002,BMW 2002 tii,Silver,Limousine,Zuzwil,Hinterradantrieb,4,1974,93500.0,Km,car,"",null,null,null,null,null
+BMW,750,BMW 750iL,Silver,Limousine,Zuzwil,Hinterradantrieb,6,1997,42000.0,Km,car,"",null,null,null,null,null
+Bentley,ARNAGE,BENTLEY Arnage Green Label,Silver,Limousine,Zuzwil,Hinterradantrieb,6,1999,85700.0,Km,car,"",null,null,null,null,null
+BMW,M5,BMW M5,Silver,Limousine,Zuzwil,Hinterradantrieb,4,2005,27800.0,Km,car,"",null,null,null,null,null
+Renault,CLIO,RENAULT Clio 2.0 16V Sport,Blue,Kleinwagen,Zuzwil,Vorderradantrieb,2,2008,147900.0,Km,car,"",null,null,null,null,null
+Mercedes,SLK 200,MERCEDES-BENZ SLK 200 Kompressor,Silver,Cabriolet,Zuzwil,Hinterradantrieb,7,2009,160.0,Km,car,"",null,null,null,null,null
+BMW,M3,BMW M3 CSL,Silver,Coupé,Zuzwil,Hinterradantrieb,7,2004,88000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Silver,Cabriolet,Zuzwil,Hinterradantrieb,5,2002,64000.0,Km,car,"",null,null,null,null,null
+BMW,M5,BMW M5,Silver,Limousine,Zuzwil,Hinterradantrieb,4,2005,33600.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Silver,Cabriolet,Zuzwil,Hinterradantrieb,6,2002,24400.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 600,MERCEDES-BENZ CL 600,Silver,Coupé,Zuzwil,Hinterradantrieb,2,2002,137000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500 6.0 AMG,Silver,Cabriolet,Zuzwil,Hinterradantrieb,3,1991,98000.0,Km,car,"",null,null,null,null,null
+Mercedes,S 65 AMG,MERCEDES-BENZ S 65 AMG L,Silver,Limousine,Zuzwil,Hinterradantrieb,1,2007,40300.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Silver,Kombi,Zuzwil,Allrad,3,2003,34000.0,Km,car,"",null,null,null,null,null
+Land Rover,DISCOVERY,LAND ROVER Discovery 3.9,Silver,SUV / Geländewagen,Zuzwil,Allrad,7,1998,55800.0,Km,car,"",null,null,null,null,null
+Chevrolet,CAMARO,CHEVROLET CAMARO,Blue,Cabriolet,Sursee,null,3,1969,10000.0,Km,car,"",null,null,null,null,null
+BMW,M5,BMW M5,Silver,Limousine,Zuzwil,Hinterradantrieb,6,2006,31500.0,Km,car,"",null,null,null,null,null
+Mercedes,300,MERCEDES-BENZ 300 300SL W198,Silver,Coupé,Sursee,Hinterradantrieb,5,1955,5000.0,Km,car,"",null,null,null,null,null
+Fiat,STILO,FIAT Stilo 1.8 16V Swiss,Silver,Limousine,Zuzwil,Vorderradantrieb,8,2006,28800.0,Km,car,"",null,null,null,null,null
+Lancio,"",LANCIA Monte Carlo 137 AS,Silver,Limousine,Zuzwil,Vorderradantrieb,7,1978,57000.0,Km,car,"",null,null,null,null,null
+Toyota,CARINA,TOYOTA CARINA Deluxe,Silver,Limousine,Zuzwil,Hinterradantrieb,11,1972,57700.0,Km,car,"",null,null,null,null,null
+Mercedes,E 320,MERCEDES-BENZ E 320 Elégance,Silver,Limousine,Zuzwil,Hinterradantrieb,12,1996,56100.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne S,Silver,SUV / Geländewagen,Zuzwil,Allrad,9,2009,1.0,Km,car,"",null,null,null,null,null
+BMW,M3,BMW M3,Silver,Cabriolet,Zuzwil,Hinterradantrieb,11,2002,23900.0,Km,car,"",null,null,null,null,null
+BMW,650,BMW 650i xDrive,Silver,Cabriolet,Zuzwil,Allrad,1,2013,5400.0,Km,car,"",null,null,null,null,null
+Chevrolet,CORVETTE,CHEVROLET Corvette 6.2,Silver,Coupé,Zuzwil,Hinterradantrieb,3,2008,33000.0,Km,car,"",null,null,null,null,null
+Maserati,COUPÉ GT,MASERATI Coupé GT,Blue,Coupé,Zuzwil,Hinterradantrieb,6,2002,53000.0,Km,car,"",null,null,null,null,null
+Ferrari,F360,FERRARI F360 Modena Berlinetta,Silver,Coupé,Zuzwil,Hinterradantrieb,5,2000,28000.0,Km,car,"",null,null,null,null,null
+BMW,328,BMW 328i Coupé,Silver,Coupé,Zuzwil,Hinterradantrieb,8,1996,69800.0,Km,car,"",null,null,null,null,null
+Mercedes,S 65 AMG,MERCEDES-BENZ S 65 AMG L,Silver,Limousine,Zuzwil,Hinterradantrieb,1,2007,94000.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Silver,Kombi,Zuzwil,Allrad,9,2002,36900.0,Km,car,"",null,null,null,null,null
+Ferrari,F355,FERRARI F355 Berlinetta,Silver,Coupé,Zuzwil,Hinterradantrieb,5,1999,29000.0,Km,car,"",null,null,null,null,null
+Volvo,S60,VOLVO S60 2.4T,Silver,Limousine,Zuzwil,Vorderradantrieb,4,2001,145000.0,Km,car,"",null,null,null,null,null
+Chrysler,VIPER,CHRYSLER Viper GTS,Silver,Coupé,Zuzwil,Hinterradantrieb,12,2000,66900.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Silver,Coupé,Zuzwil,Allrad,6,2000,127800.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Silver,SUV / Geländewagen,Zuzwil,Allrad,1,2003,156000.0,Km,car,"",null,null,null,null,null
+Ford,"",FORD RS200 EVO Gruppe B,Silver,Coupé,Zuzwil,Allrad,8,1986,1000.0,Km,car,"",null,null,null,null,null
+Audi,A8,AUDI A8 4.2 quattro,Blue,Limousine,Zuzwil,Allrad,1,2003,26700.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Silver,Kombi,Zuzwil,Allrad,3,2010,26300.0,Km,car,"",null,null,null,null,null
+Porsche,PANAMERA,PORSCHE Panamera 4S 4.8,Silver,Limousine,Zuzwil,Allrad,11,2010,57600.0,Km,car,"",null,null,null,null,null
+BMW,X5,BMW X5 4.4i,Silver,SUV / Geländewagen,Zuzwil,Allrad,8,2005,14700.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Silver,Cabriolet,Zuzwil,Hinterradantrieb,4,2004,21400.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Silver,Kombi,Zuzwil,Allrad,10,2002,46900.0,Km,car,"",null,null,null,null,null
+Mercedes,E 320,MERCEDES-BENZ E 320 CDI Avantgarde,Silver,Limousine,Zuzwil,Hinterradantrieb,6,2007,100.0,Km,car,"",null,null,null,null,null
+Ferrari,F360,FERRARI F360 Modena Berlinetta,Silver,Coupé,Zuzwil,Hinterradantrieb,11,2000,25000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Silver,Cabriolet,Zuzwil,Hinterradantrieb,4,2002,33000.0,Km,car,"",null,null,null,null,null
+Lamborghini,MURCIÉLAGO,LAMBORGHINI Murciélago LP670-4 SV Cpé,Silver,Coupé,Zuzwil,Allrad,5,2010,20800.0,Km,car,"",null,null,null,null,null
+Porsche,PANAMERA,PORSCHE Panamera 4S 4.8,Silver,Limousine,Zuzwil,Allrad,5,2010,35500.0,Km,car,"",null,null,null,null,null
+Jaguar,XJ,JAGUAR XJ 4.0 Sovereign,Blue,Limousine,Zuzwil,Hinterradantrieb,3,1997,161400.0,Km,car,"",null,null,null,null,null
+Mercedes,S 600,MERCEDES-BENZ S 600 L,Silver,Limousine,Zuzwil,Hinterradantrieb,6,2003,128800.0,Km,car,"",null,null,null,null,null
+BMW,X5,BMW X5 4.4i,Silver,SUV / Geländewagen,Zuzwil,Allrad,12,2001,91000.0,Km,car,"",null,null,null,null,null
+Land Rover,RANGE ROVER SPORT,LAND ROVER Range Rover Sport 4.2 V8 SC,Silver,SUV / Geländewagen,Zuzwil,Allrad,5,2006,126300.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo S,Silver,SUV / Geländewagen,Zuzwil,Allrad,5,2007,400.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Silver,SUV / Geländewagen,Zuzwil,Allrad,4,2008,21000.0,Km,car,"",null,null,null,null,null
+BMW,M5,BMW M5,Silver,Limousine,Zuzwil,Hinterradantrieb,3,2012,19000.0,Km,car,"",null,null,null,null,null
+BMW,328,BMW 328i,Silver,Limousine,Zuzwil,Hinterradantrieb,8,1999,86300.0,Km,car,"",null,null,null,null,null
+BMW,330,BMW 330xi,Silver,Limousine,Zuzwil,Allrad,11,2001,124800.0,Km,car,"",null,null,null,null,null
+BMW,X5,BMW X5 4.4i,Silver,SUV / Geländewagen,Zuzwil,Allrad,11,2000,41900.0,Km,car,"",null,null,null,null,null
+Alpina,7 SERIES,BMW-ALPINA 7 SERIES B7 Turbo Limousine,Silver,Limousine,Zuzwil,null,3,1980,129400.0,Km,car,"",null,null,null,null,null
+Maserati,SPYDER GT,MASERATI Spyder GT,Blue,Cabriolet,Zuzwil,Hinterradantrieb,3,2003,49300.0,Km,car,"",null,null,null,null,null
+Porsche,CARRERA GT,PORSCHE Carrera GT,Silver,Cabriolet,Zuzwil,Hinterradantrieb,12,2006,12000.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant quattro,Silver,Kombi,Zuzwil,Allrad,8,2002,144100.0,Km,car,"",null,null,null,null,null
+Nissan,SUNNY,NISSAN Sunny 2.0 16V GTI-R,Silver,Limousine,Zuzwil,Allrad,2,1992,98000.0,Km,car,"",null,null,null,null,null
+Alpina,3 SERIES,BMW-ALPINA B3 3.3 S,Silver,Limousine,Zuzwil,Hinterradantrieb,2,2003,54100.0,Km,car,"",null,null,null,null,null
+Bentley,ARNAGE,BENTLEY Arnage T,Silver,Limousine,Zuzwil,Hinterradantrieb,12,2003,57000.0,Km,car,"",null,null,null,null,null
+Ferrari,F355,FERRARI F355 Berlinetta,Silver,Coupé,Zuzwil,Hinterradantrieb,7,1999,53600.0,Km,car,"",null,null,null,null,null
+Mercedes,SLR,MERCEDES-BENZ SLR McLaren,Silver,Cabriolet,Zuzwil,Hinterradantrieb,10,2007,29800.0,Km,car,"",null,null,null,null,null
+Mercedes,E 50 AMG,MERCEDES-BENZ E 50 AMG Avantgarde,Silver,Limousine,Zuzwil,Hinterradantrieb,2,1997,35600.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Silver,Coupé,Zuzwil,Allrad,4,1995,127850.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo,Silver,Coupé,Zuzwil,Allrad,6,2001,26300.0,Km,car,"",null,null,null,null,null
+Mercedes,E 230,MERCEDES-BENZ E 230 Elégance,Blue,Kombi,Zuzwil,Hinterradantrieb,5,1997,126000.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 Turbo Cabrio,Silver,Cabriolet,Zuzwil,Allrad,9,2004,21400.0,Km,car,"",null,null,null,null,null
+Audi,RS4,AUDI RS4 4.2 V8 quattro,Silver,Limousine,Zuzwil,Allrad,1,2006,95700.0,Km,car,"",null,null,null,null,null
+Ferrari,F355,FERRARI F355 Berlinetta,Silver,Coupé,Zuzwil,Hinterradantrieb,7,1998,41300.0,Km,car,"",null,null,null,null,null
+Mercedes,CLS 500,MERCEDES-BENZ CLS 500,Silver,Limousine,Zuzwil,Hinterradantrieb,4,2005,78700.0,Km,car,"",null,null,null,null,null
+Porsche,911,PORSCHE 911 SC 3.0,Silver,Coupé,Zuzwil,Hinterradantrieb,4,1983,134000.0,Km,car,"",null,null,null,null,null
+BMW,M6,BMW M6,Silver,Coupé,Zuzwil,Hinterradantrieb,7,2005,55000.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 500,MERCEDES-BENZ SL 500,Silver,Cabriolet,Zuzwil,Hinterradantrieb,3,2002,19200.0,Km,car,"",null,null,null,null,null
+Bentley,TURBO,BENTLEY TURBO,Silver,Coupé,Zuzwil,Hinterradantrieb,1,1995,47500.0,Km,car,"",null,null,null,null,null
+PGO,"",PGO Cevennes,Silver,Cabriolet,Zuzwil,null,5,2008,3000.0,Km,car,"",null,null,null,null,null
+Mercedes,CL 500,MERCEDES-BENZ CL 500,Silver,Coupé,Zuzwil,Hinterradantrieb,1,2000,39600.0,Km,car,"",null,null,null,null,null
+BMW,M5,BMW M5,Blue,Limousine,Zuzwil,Hinterradantrieb,8,2000,62300.0,Km,car,"",null,null,null,null,null
+Lamborghini,AVENTADOR,LAMBORGHINI Aventador LP700-4 Rds,Silver,Cabriolet,Sursee,Allrad,1,2014,150.0,Km,car,"",null,null,null,null,null
+Mercedes,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,Silver,Cabriolet,Zuzwil,Hinterradantrieb,3,2002,48200.0,Km,car,"",null,null,null,null,null
+Renault,R5,RENAULT R5 Alpine Turbo,Silver,Coupé,Zuzwil,Vorderradantrieb,8,1984,172800.0,Km,car,"",null,null,null,null,null
+Audi,A6,AUDI A6 2.4,Silver,Limousine,Zuzwil,Vorderradantrieb,7,2002,67700.0,Km,car,"",null,null,null,null,null
+BMW,2002,BMW 2002 Turbo,Silver,Limousine,Zuzwil,Hinterradantrieb,6,1974,578.0,Km,car,"",null,null,null,null,null
+Mercedes,CLS 350,MERCEDES-BENZ CLS 350 CGI,Silver,Limousine,Zuzwil,Hinterradantrieb,1,2010,25300.0,Km,car,"",null,null,null,null,null
+Lamborghini,DIABLO,LAMBORGHINI Diablo 5.7 VT,Silver,Coupé,Zuzwil,Allrad,6,1993,46700.0,Km,car,"",null,null,null,null,null
+Audi,RS6,AUDI RS6 Avant 5.0 V10 quattro,Silver,Kombi,Zuzwil,Allrad,2,2009,118800.0,Km,car,"",null,null,null,null,null
+Ferrari,612,FERRARI 612,Silver,Coupé,Zuzwil,Hinterradantrieb,10,2004,42200.0,Km,car,"",null,null,null,null,null
+Porsche,CAYENNE,PORSCHE Cayenne Turbo,Silver,SUV / Geländewagen,Zuzwil,Allrad,12,2005,13700.0,Km,car,"",null,null,null,null,null

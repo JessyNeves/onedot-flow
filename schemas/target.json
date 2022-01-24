@@ -1,0 +1,115 @@
+{
+    "target": {
+      "type": "struct",
+      "fields": [
+        {
+          "name": "carType",
+          "type": "string",
+          "nullable": true,
+          "metadata": {}
+        },
+        {
+            "name": "color",
+            "type": "string",
+            "nullable": true,
+            "metadata": {}
+        },
+        {
+            "name": "condition",
+            "type": "string",
+            "nullable": true,
+            "metadata": {}
+        },
+        {
+            "name": "currency",
+            "type": "string",
+            "nullable": true,
+            "metadata": {}
+        },
+        {
+            "name": "drive",
+            "type": "string",
+            "nullable": true,
+            "metadata": {}
+        },
+        {
+            "name": "city",
+            "type": "string",
+            "nullable": true,
+            "metadata": {}
+        },
+        {
+            "name": "country",
+            "type": "string",
+            "nullable": true,
+            "metadata": {}
+        },
+        {
+            "name": "make",
+            "type": "string",
+            "nullable": true,
+            "metadata": {}
+        },
+        {
+            "name": "manufacture_year",
+            "type": "integer",
+            "nullable": true,
+            "metadata": {}
+        },
+        {
+            "name": "mileage",
+            "type": "float",
+            "nullable": true,
+            "metadata": {}
+        },
+        {
+            "name": "mileage_unit",
+            "type": "string",
+            "nullable": true,
+            "metadata": {}
+        },
+        {
+            "name": "model",
+            "type": "string",
+            "nullable": true,
+            "metadata": {}
+        },
+        {
+            "name": "model_variant",
+            "type": "string",
+            "nullable": true,
+            "metadata": {}
+        },
+        {
+            "name": "price_on_request",
+            "type": "boolean",
+            "nullable": true,
+            "metadata": {}
+        },
+        {
+            "name": "type",
+            "type": "string",
+            "nullable": true,
+            "metadata": {}
+        },
+        {
+            "name": "zip",
+            "type": "string",
+            "nullable": true,
+            "metadata": {}
+        },
+        {
+            "name": "manufacture_month",
+            "type": "integer",
+            "nullable": true,
+            "metadata": {}
+        },
+        {
+            "name": "fuel_consumption_unit",
+            "type": "string",
+            "nullable": true,
+            "metadata": {}
+        }
+      ]
+    }
+}
