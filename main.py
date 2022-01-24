@@ -83,12 +83,12 @@ for key, value in integration_config.get("to_add").items():
 integration_df = check_and_enforce_schema(integration_df, "target")
 integration_df.show()
 
+# Check and enforce schema before write
+integration_df = check_and_enforce_schema(integration_df, "target")
+
 # Integration OUTPUT
 integration_df.write.mode("overwrite") \
     .option("header", "true") \
     .option("encoding", "UTF-8") \
     .csv("csv/integration")
-
-# Check and enforce schema
-integration_df = check_and_enforce_schema(integration_df, "target")
-
+    
