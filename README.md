@@ -7,6 +7,7 @@ Production wise it would be recommendable to split the steps into actual differe
 This could be easily achievable by, for example, using tools like Airflow/Dagster, Glue Workflows or Databricks to orchestrate these steps.
 By doing so we would be able to implement monitoring and even data quality over the different phases of the pipeline, development would be easier and debugging faster.
 
+<img align='center' src="imgs/onedot-challenge.png">
 
 # 1. Installation
 
@@ -59,3 +60,4 @@ By doing so we would be able to implement monitoring and even data quality over 
 
     In the case of a relational database the process would be similar, with the difference that we would in fact know the keys to indentify a product. Making use of a jdbc connection to the database,
     we would be able to UPSERT our ready-to-be-integrated source data into our sink table (living somewhere in a relational database).  
+
